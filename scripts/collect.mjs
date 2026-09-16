@@ -88,18 +88,28 @@ async function main() {
   const { catalogue, unavailable } = rebuildCatalogue({ incoming: dryRun ? incoming : null });
 
   // ---- snapshot --------------------------------------------------------
+  // Some sources publish their own reference points, and one of them has to:
+  // Tickertape exposes no MMI history, so `mmi` cannot supply a prior value from
+  // its own series until two days have accumulated. Without this fallback the
+  // flagship card reads "prev -" on every fresh install and silently hides the
+  // day's move - which, on a day the index collapses, is the whole story.
+  const PREV_FALLBACK = {
+    mmi: () => snapshots.tickertape?.lastDay?.value ?? null,
+  };
+
   const headline = {};
   for (const id of ['mmi', 'cnn-fng', 'crypto-fng', 'india-vix']) {
     const meta = SERIES_BY_ID.get(id);
     const entry = catalogue.find((c) => c.id === id);
     if (!meta || !entry) continue;
+    const fromSeries = entry.points > 1 ? catalogueSeriesPrev(id) : null;
     headline[id] = {
       title: meta.title,
       short: meta.short,
       value: entry.lastValue,
       date: entry.last,
       zone: entry.zone,
-      previous: entry.points > 1 ? catalogueSeriesPrev(id) : null,
+      previous: fromSeries ?? PREV_FALLBACK[id]?.() ?? null,
     };
   }
 
