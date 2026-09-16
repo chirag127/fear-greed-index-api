@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T16:13:57.626Z",
+  "generated": "2026-09-16T16:52:24.896Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -97,7 +97,7 @@
     {
       "id": "cnn-breakdown",
       "title": "CNN Component Breakdown",
-      "description": "CNN's seven inputs, each scored 0-100.",
+      "description": "CNN's nine sub-indicators, plotted as raw values on a shared axis.",
       "ids": [
         "cnn-momentum-sp500",
         "cnn-momentum-sp125",
@@ -257,7 +257,7 @@
       "points": 1516,
       "first": "2020-09-01",
       "last": "2026-09-16",
-      "lastValue": 28.8857,
+      "lastValue": 28.6857,
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
@@ -280,7 +280,7 @@
       "points": 1516,
       "first": "2020-09-01",
       "last": "2026-09-16",
-      "lastValue": 7615.54,
+      "lastValue": 7609.72,
       "zone": null
     },
     {
@@ -300,7 +300,7 @@
       "points": 1516,
       "first": "2020-09-01",
       "last": "2026-09-16",
-      "lastValue": 7360.2465,
+      "lastValue": 7360.1999,
       "zone": null
     },
     {
@@ -320,7 +320,7 @@
       "points": 1516,
       "first": "2020-09-01",
       "last": "2026-09-16",
-      "lastValue": -3.1535,
+      "lastValue": -3.1603,
       "zone": null
     },
     {
@@ -340,7 +340,7 @@
       "points": 1516,
       "first": "2020-09-01",
       "last": "2026-09-16",
-      "lastValue": 685.2571,
+      "lastValue": 685.0475,
       "zone": null
     },
     {
@@ -360,7 +360,7 @@
       "points": 1516,
       "first": "2020-09-01",
       "last": "2026-09-16",
-      "lastValue": 0.7706,
+      "lastValue": 0.7718,
       "zone": null
     },
     {
@@ -380,7 +380,7 @@
       "points": 1516,
       "first": "2020-09-01",
       "last": "2026-09-16",
-      "lastValue": 16.69,
+      "lastValue": 16.84,
       "zone": null
     },
     {
@@ -400,7 +400,7 @@
       "points": 1516,
       "first": "2020-09-01",
       "last": "2026-09-16",
-      "lastValue": 16.198,
+      "lastValue": 16.201,
       "zone": null
     },
     {
@@ -420,7 +420,7 @@
       "points": 1516,
       "first": "2020-09-01",
       "last": "2026-09-16",
-      "lastValue": 1.2386,
+      "lastValue": 1.2402,
       "zone": null
     },
     {
@@ -440,7 +440,7 @@
       "points": 1516,
       "first": "2020-09-01",
       "last": "2026-09-16",
-      "lastValue": 0.9878,
+      "lastValue": 0.9196,
       "zone": null
     },
     {
