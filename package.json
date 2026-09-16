@@ -1,14 +1,28 @@
 {
-  "name": "tickertape-mmi",
-  "version": "0.2.0",
-  "description": "Tickertape Market Mood Index mirror — scraped hourly by GitHub Actions, served via GitHub Pages + raw.githubusercontent.com.",
+  "name": "fear-greed-index-api",
+  "version": "1.0.0",
+  "description": "Free static JSON API for market fear & greed: Tickertape MMI, CNN Fear & Greed, crypto F&G, India VIX, NSE valuation and breadth, FII/DII flows. Collected by GitHub Actions, served from GitHub Pages and raw.githubusercontent.com.",
   "private": true,
   "type": "module",
-  "packageManager": "pnpm@10.34.3",
-  "scripts": {
-    "scrape": "node scripts/scrape.mjs"
+  "packageManager": "pnpm@11.18.0",
+  "engines": {
+    "node": ">=22"
   },
-  "dependencies": {
-    "cheerio": "^1.0.0"
-  }
+  "scripts": {
+    "collect": "node scripts/collect.mjs",
+    "scrape": "node scripts/collect.mjs",
+    "collect:dry": "node scripts/collect.mjs --dry-run",
+    "verify": "node scripts/verify.mjs"
+  },
+  "keywords": [
+    "fear-and-greed",
+    "market-sentiment",
+    "market-mood-index",
+    "nifty",
+    "india-vix",
+    "fii-dii",
+    "static-api",
+    "json-api"
+  ],
+  "license": "MIT"
 }
