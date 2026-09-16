@@ -1,31 +1,50 @@
-name: scrape
+name: collect
 
 on:
   schedule:
-    - cron: '0 * * * *' # hourly — MMI updates intraday
+    - cron: '0 * * * *' # hourly — MMI moves intraday; daily series dedupe by date
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'package.json'
 
 permissions:
   contents: write
 
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
 jobs:
-  scrape:
+  collect:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: pnpm/action-setup@v6
-        with:
-          version: 10.34.3
+
+      # No dependency install: the collector runs on Node's native fetch.
       - uses: actions/setup-node@v7
         with:
-          node-version: 22
-          cache: pnpm
-      - run: pnpm install --frozen-lockfile
-      - run: pnpm run scrape
+          node-version: '22'
+
+      - name: Collect all sources
+        run: node scripts/collect.mjs
+
+      - name: Verify emitted API
+        run: node scripts/verify.mjs
+
+      - name: Enforce no git LFS
+        run: node scripts/check-no-lfs.mjs
+
       - name: Commit + push
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add data
-          git diff --cached --quiet || git commit -m "data: scrape $(date -u +%FT%H:%MZ)"
+          if git diff --cached --quiet; then
+            echo "no changes this run"
+            exit 0
+          fi
+          git commit -m "data: collect $(date -u +%FT%H:%MZ)"
           git push

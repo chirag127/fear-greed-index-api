@@ -1,2 +1,25 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+* text=auto eol=lf
+
+# ---------------------------------------------------------------------------
+# Git LFS is explicitly NOT used in this repository, by design.
+#
+# The point of this project is a zero-dependency, zero-cost static JSON API:
+# data lives as plain, human-readable, diffable text in git and is served
+# directly from GitHub Pages / raw.githubusercontent.com.
+#
+# If `git lfs` ever rewrites these paths, the deployed site would serve LFS
+# pointer files instead of data, and every consumer would break silently.
+#
+# `-filter` disables any clean/smudge filter (which is how LFS hooks itself in)
+# while keeping the files plain text so `git diff` stays readable — that
+# readability is what makes git-as-DB workable.
+#
+# Attributes later in this file win, so `git lfs track` appending its own
+# filter=lfs line would override these. scripts/check-no-lfs.mjs is the actual
+# enforcement and runs in CI on every push.
+# ---------------------------------------------------------------------------
+*.json -filter text eol=lf
+data/** -filter text eol=lf
+*.png -filter
+*.svg -filter text eol=lf
