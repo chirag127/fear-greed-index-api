@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T17:20:45.495Z",
+  "updated": "2026-09-16T17:19:44.876Z",
   "asOf": "2026-09-16",
   "headline": {
     "mmi": {
@@ -11,7 +11,7 @@
         "label": "Extreme Fear",
         "color": "#c0392b"
       },
-      "previous": null
+      "previous": 21.5
     },
     "cnn-fng": {
       "title": "CNN Fear & Greed Index",
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 401
+      "ms": 307
     },
     "tickertape": {
       "ok": true,
-      "ms": 3008
+      "ms": 205
     },
     "nse": {
       "ok": true,
-      "ms": 796
+      "ms": 700
     },
     "cnn": {
       "ok": true,
-      "ms": 336
+      "ms": 154
     },
     "crypto": {
       "ok": true,
-      "ms": 375
+      "ms": 188
     }
   },
   "unavailable": [],
