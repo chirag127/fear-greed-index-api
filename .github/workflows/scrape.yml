@@ -37,14 +37,44 @@ jobs:
       - name: Enforce no git LFS
         run: node scripts/check-no-lfs.mjs
 
+      # Regenerate on top of the remote rather than merging generated JSON.
+      #
+      # This repository is a git-as-database: the hourly cron and a developer both
+      # write the same series files, so a plain `git push` here routinely races
+      # whoever pushed last. Merging or rebasing the two sides conflicts on nearly
+      # every series file, because each run rewrites the newest point.
+      #
+      # The collector already merges into existing series files, so the correct
+      # move is to reset onto the remote, collect again, and commit the result.
+      # That keeps both sides' points without ever three-way-merging data.
       - name: Commit + push
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data
-          if git diff --cached --quiet; then
-            echo "no changes this run"
-            exit 0
-          fi
-          git commit -m "data: collect $(date -u +%FT%H:%MZ)"
-          git push
+
+          for attempt in 1 2 3 4 5; do
+            git fetch --quiet origin main
+            git reset --hard --quiet origin/main
+
+            node scripts/collect.mjs > /dev/null
+            node scripts/verify.mjs
+
+            git add data
+            if git diff --cached --quiet; then
+              echo "no changes this run"
+              exit 0
+            fi
+
+            git commit --quiet -m "data: collect $(date -u +%FT%H:%MZ)"
+
+            if git push --quiet origin HEAD:main; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+
+            echo "push rejected; rebuilding from the remote (attempt $attempt)"
+            sleep $((attempt * 4))
+          done
+
+          echo "FAILED: could not push after 5 attempts" >&2
+          exit 1
