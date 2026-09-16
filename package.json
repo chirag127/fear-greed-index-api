@@ -4,7 +4,7 @@
   "description": "Free static JSON API for market fear & greed: Tickertape MMI, CNN Fear & Greed, crypto F&G, India VIX, NSE valuation and breadth, FII/DII flows. Collected by GitHub Actions, served from GitHub Pages and raw.githubusercontent.com.",
   "private": true,
   "type": "module",
-  "packageManager": "pnpm@11.18.0",
+  "packageManager": "pnpm@10.34.3",
   "engines": {
     "node": ">=22"
   },
