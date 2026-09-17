@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T17:55:13.770Z",
+  "updated": "2026-09-17T20:38:30.301Z",
   "asOf": "2026-09-17",
   "headline": {
     "mmi": {
@@ -16,7 +16,7 @@
     "cnn-fng": {
       "title": "CNN Fear & Greed Index",
       "short": "CNN F&G",
-      "value": 29.4857,
+      "value": 28.6857,
       "date": "2026-09-17",
       "zone": {
         "label": "Fear",
@@ -66,9 +66,9 @@
     }
   },
   "cnn": {
-    "value": 29.49,
+    "value": 28.69,
     "rating": "fear",
-    "timestamp": "2026-09-17T17:53:54+00:00",
+    "timestamp": "2026-09-17T20:21:08+00:00",
     "previousClose": 26.49,
     "previous1Week": 32.2,
     "previous1Month": 59.14,
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 280
+      "ms": 284
     },
     "tickertape": {
       "ok": true,
-      "ms": 67
+      "ms": 182
     },
     "nse": {
       "ok": true,
-      "ms": 722
+      "ms": 194
     },
     "cnn": {
       "ok": true,
-      "ms": 189
+      "ms": 267
     },
     "crypto": {
       "ok": true,
-      "ms": 198
+      "ms": 362
     }
   },
   "unavailable": [],
