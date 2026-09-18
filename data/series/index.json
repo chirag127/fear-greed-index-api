@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T21:18:57.847Z",
+  "generated": "2026-09-18T23:45:45.031Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -360,7 +360,7 @@
       "points": 1518,
       "first": "2020-09-01",
       "last": "2026-09-18",
-      "lastValue": 0.7757,
+      "lastValue": 0.7756,
       "zone": null
     },
     {
