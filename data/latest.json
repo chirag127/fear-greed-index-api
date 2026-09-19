@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T19:41:28.319Z",
+  "updated": "2026-09-19T21:50:53.848Z",
   "asOf": "2026-09-18",
   "headline": {
     "mmi": {
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 287
+      "ms": 237
     },
     "tickertape": {
       "ok": true,
-      "ms": 157
+      "ms": 81
     },
     "nse": {
       "ok": true,
-      "ms": 474
+      "ms": 548
     },
     "cnn": {
       "ok": true,
-      "ms": 281
+      "ms": 234
     },
     "crypto": {
       "ok": true,
-      "ms": 192
+      "ms": 197
     }
   },
   "unavailable": [],
