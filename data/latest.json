@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T22:53:58.987Z",
+  "updated": "2026-09-22T01:19:34.132Z",
   "asOf": "2026-09-21",
   "headline": {
     "mmi": {
@@ -27,13 +27,13 @@
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
       "short": "Crypto F&G",
-      "value": 70,
-      "date": "2026-09-21",
+      "value": 78,
+      "date": "2026-09-22",
       "zone": {
-        "label": "Greed",
-        "color": "#27ae60"
+        "label": "Extreme Greed",
+        "color": "#16a085"
       },
-      "previous": 71
+      "previous": 70
     },
     "india-vix": {
       "title": "India VIX",
@@ -68,7 +68,7 @@
   "cnn": {
     "value": 33.71,
     "rating": "fear",
-    "timestamp": "2026-09-21T22:34:45+00:00",
+    "timestamp": "2026-09-21T23:59:56+00:00",
     "previousClose": 29.11,
     "previous1Week": 31,
     "previous1Month": 54.66,
@@ -80,20 +80,20 @@
     "componentDepths": {
       "cnn-momentum-sp500": 1520,
       "cnn-momentum-sp125": 1520,
-      "cnn-price-strength": 1519,
-      "cnn-price-breadth": 1519,
-      "cnn-put-call": 1519,
+      "cnn-price-strength": 1520,
+      "cnn-price-breadth": 1520,
+      "cnn-put-call": 1520,
       "cnn-vix": 1520,
       "cnn-vix50": 1520,
-      "cnn-junk-bond": 1519,
-      "cnn-safe-haven": 1519
+      "cnn-junk-bond": 1520,
+      "cnn-safe-haven": 1520
     }
   },
   "crypto": {
-    "value": 70,
-    "classification": "Greed",
-    "timestamp": "2026-09-21",
-    "historyDays": 3151
+    "value": 78,
+    "classification": "Extreme Greed",
+    "timestamp": "2026-09-22",
+    "historyDays": 3152
   },
   "nse": {
     "indices": {
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 291
+      "ms": 240
     },
     "tickertape": {
       "ok": true,
-      "ms": 103
+      "ms": 191
     },
     "nse": {
       "ok": true,
-      "ms": 1132
+      "ms": 173
     },
     "cnn": {
       "ok": true,
-      "ms": 234
+      "ms": 231
     },
     "crypto": {
       "ok": true,
-      "ms": 424
+      "ms": 402
     }
   },
   "unavailable": [],
