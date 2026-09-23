@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T23:20:01.291Z",
+  "generated": "2026-09-23T02:04:18.688Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -171,13 +171,13 @@
       "source": "alternative.me",
       "sourceUrl": "https://alternative.me/crypto/fear-and-greed-index/",
       "description": "alternative.me crypto sentiment composite. A fast, 24/7 risk-appetite proxy.",
-      "points": 3152,
+      "points": 3153,
       "first": "2018-02-01",
-      "last": "2026-09-22",
-      "lastValue": 78,
+      "last": "2026-09-23",
+      "lastValue": 71,
       "zone": {
-        "label": "Extreme Greed",
-        "color": "#16a085"
+        "label": "Greed",
+        "color": "#27ae60"
       }
     },
     {
@@ -1407,7 +1407,7 @@
       "points": 5,
       "first": "2026-09-16",
       "last": "2026-09-22",
-      "lastValue": -116,
+      "lastValue": -117,
       "zone": null
     },
     {
@@ -1641,7 +1641,7 @@
       "points": 5,
       "first": "2026-09-16",
       "last": "2026-09-22",
-      "lastValue": -45,
+      "lastValue": -46,
       "zone": null
     },
     {
