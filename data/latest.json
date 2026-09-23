@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-23T13:54:51.931Z",
-  "asOf": "2026-09-22",
+  "updated": "2026-09-23T18:03:20.705Z",
+  "asOf": "2026-09-23",
   "headline": {
     "mmi": {
       "title": "Tickertape Market Mood Index",
       "short": "MMI",
-      "value": 33.6248,
+      "value": 33.6247,
       "date": "2026-09-23",
       "zone": {
         "label": "Fear",
@@ -16,7 +16,7 @@
     "cnn-fng": {
       "title": "CNN Fear & Greed Index",
       "short": "CNN F&G",
-      "value": 39,
+      "value": 35.9429,
       "date": "2026-09-23",
       "zone": {
         "label": "Fear",
@@ -66,9 +66,9 @@
     }
   },
   "cnn": {
-    "value": 39,
+    "value": 35.94,
     "rating": "fear",
-    "timestamp": "2026-09-23T13:51:06+00:00",
+    "timestamp": "2026-09-23T18:02:14+00:00",
     "previousClose": 35.23,
     "previous1Week": 27.31,
     "previous1Month": 54.66,
@@ -216,21 +216,21 @@
       }
     },
     "flows": {
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "rows": [
         {
           "category": "DII",
-          "date": "2026-09-22",
-          "buy": 14599.72,
-          "sell": 10479.65,
-          "net": 4120.07
+          "date": "2026-09-23",
+          "buy": 14404.9,
+          "sell": 12063.44,
+          "net": 2341.46
         },
         {
           "category": "FII/FPI",
-          "date": "2026-09-22",
-          "buy": 9845.81,
-          "sell": 13655.8,
-          "net": -3809.99
+          "date": "2026-09-23",
+          "buy": 13580.4,
+          "sell": 11962.95,
+          "net": 1617.45
         }
       ]
     },
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 260
+      "ms": 207
     },
     "tickertape": {
       "ok": true,
-      "ms": 56
+      "ms": 68
     },
     "nse": {
       "ok": true,
-      "ms": 453
+      "ms": 198
     },
     "cnn": {
       "ok": true,
-      "ms": 186
+      "ms": 194
     },
     "crypto": {
       "ok": true,
-      "ms": 205
+      "ms": 465
     }
   },
   "unavailable": [],
