@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T00:10:19.686Z",
+  "generated": "2026-09-24T05:44:02.865Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -127,10 +127,10 @@
       "source": "tickertape.in",
       "sourceUrl": "https://www.tickertape.in/market-mood-index",
       "description": "India 0-100 fear/greed composite (price, volatility, breadth, flows, valuations).",
-      "points": 6,
+      "points": 7,
       "first": "2026-09-16",
-      "last": "2026-09-23",
-      "lastValue": 33.6247,
+      "last": "2026-09-24",
+      "lastValue": 28.1182,
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
@@ -150,10 +150,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Implied 30-day volatility of Nifty options. Spikes mark panic; collapses mark complacency.",
-      "points": 2456,
+      "points": 2457,
       "first": "2016-09-16",
-      "last": "2026-09-23",
-      "lastValue": 10.29,
+      "last": "2026-09-24",
+      "lastValue": 11.3075,
       "zone": null
     },
     {
@@ -193,10 +193,10 @@
       "source": "finance.yahoo.com",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EBSESN/",
       "description": "BSE Sensex close, 10 years of daily history. Included for comparison against Nifty 50.",
-      "points": 2468,
+      "points": 2469,
       "first": "2016-09-16",
-      "last": "2026-09-23",
-      "lastValue": 74828.25,
+      "last": "2026-09-24",
+      "lastValue": 74187.5781,
       "zone": null
     },
     {
@@ -213,10 +213,10 @@
       "source": "finance.yahoo.com",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXIT/",
       "description": "NIFTY IT index close, 10 years of daily history. A proxy for IT-sector risk appetite.",
-      "points": 2472,
+      "points": 2473,
       "first": "2016-09-16",
-      "last": "2026-09-23",
-      "lastValue": 28334.0508,
+      "last": "2026-09-24",
+      "lastValue": 28342.25,
       "zone": null
     },
     {
@@ -233,10 +233,10 @@
       "source": "tickertape.in",
       "sourceUrl": "https://www.tickertape.in/market-mood-index",
       "description": "Nifty level from Tickertape's own MMI snapshot, so the index the MMI was computed against lines up exactly with the score.",
-      "points": 6,
+      "points": 7,
       "first": "2026-09-16",
-      "last": "2026-09-23",
-      "lastValue": 23446.8,
+      "last": "2026-09-24",
+      "lastValue": 23222.3,
       "zone": null
     },
     {
@@ -254,10 +254,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN US equity fear/greed composite, equal-weight across seven indicators.",
-      "points": 1521,
+      "points": 1522,
       "first": "2020-09-01",
-      "last": "2026-09-23",
-      "lastValue": 34.6857,
+      "last": "2026-09-24",
+      "lastValue": 34.6286,
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
@@ -417,9 +417,9 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: Junk Bond Demand. Raw indicator value (not a 0-100 score).",
-      "points": 1521,
+      "points": 1522,
       "first": "2020-09-01",
-      "last": "2026-09-23",
+      "last": "2026-09-24",
       "lastValue": 1.2388,
       "zone": null
     },
@@ -515,10 +515,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY 50.",
-      "points": 2484,
+      "points": 2485,
       "first": "2016-09-01",
-      "last": "2026-09-23",
-      "lastValue": 23446.8,
+      "last": "2026-09-24",
+      "lastValue": 23213.6992,
       "zone": null
     },
     {
@@ -593,10 +593,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY 100.",
-      "points": 2483,
+      "points": 2484,
       "first": "2016-09-01",
-      "last": "2026-09-23",
-      "lastValue": 24612.25,
+      "last": "2026-09-24",
+      "lastValue": 24381.9492,
       "zone": null
     },
     {
@@ -671,10 +671,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY 500.",
-      "points": 2483,
+      "points": 2484,
       "first": "2016-09-01",
-      "last": "2026-09-23",
-      "lastValue": 22935.1,
+      "last": "2026-09-24",
+      "lastValue": 22723.3496,
       "zone": null
     },
     {
@@ -752,7 +752,7 @@
       "points": 2483,
       "first": "2016-09-01",
       "last": "2026-09-23",
-      "lastValue": 72462.4,
+      "lastValue": 71967.25,
       "zone": null
     },
     {
@@ -827,10 +827,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY BANK.",
-      "points": 2483,
+      "points": 2484,
       "first": "2016-09-01",
-      "last": "2026-09-23",
-      "lastValue": 56548.9,
+      "last": "2026-09-24",
+      "lastValue": 55564.1016,
       "zone": null
     },
     {
@@ -908,7 +908,7 @@
       "points": 2094,
       "first": "2018-04-02",
       "last": "2026-09-23",
-      "lastValue": 62396.45,
+      "lastValue": 61609.55,
       "zone": null
     },
     {
@@ -986,7 +986,7 @@
       "points": 2483,
       "first": "2016-09-01",
       "last": "2026-09-23",
-      "lastValue": 22928.85,
+      "lastValue": 22684.2,
       "zone": null
     },
     {
@@ -1064,7 +1064,7 @@
       "points": 2094,
       "first": "2018-04-02",
       "last": "2026-09-23",
-      "lastValue": 19991.5,
+      "lastValue": 19863.15,
       "zone": null
     },
     {
@@ -1142,7 +1142,7 @@
       "points": 2483,
       "first": "2016-09-01",
       "last": "2026-09-23",
-      "lastValue": 18411.4,
+      "lastValue": 18321.15,
       "zone": null
     },
     {
@@ -1329,7 +1329,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 22,
+      "lastValue": -34,
       "zone": null
     },
     {
@@ -1349,7 +1349,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 0.72,
+      "lastValue": 0.16,
       "zone": null
     },
     {
@@ -1368,7 +1368,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 50,
+      "lastValue": -68,
       "zone": null
     },
     {
@@ -1388,7 +1388,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 0.75,
+      "lastValue": 0.16,
       "zone": null
     },
     {
@@ -1407,7 +1407,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 183,
+      "lastValue": -241,
       "zone": null
     },
     {
@@ -1427,7 +1427,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 0.6806,
+      "lastValue": 0.2575,
       "zone": null
     },
     {
@@ -1446,7 +1446,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 28,
+      "lastValue": -34,
       "zone": null
     },
     {
@@ -1466,7 +1466,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 0.78,
+      "lastValue": 0.16,
       "zone": null
     },
     {
@@ -1485,7 +1485,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 12,
+      "lastValue": -14,
       "zone": null
     },
     {
@@ -1505,7 +1505,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 0.9286,
+      "lastValue": 0,
       "zone": null
     },
     {
@@ -1524,7 +1524,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 35,
+      "lastValue": -32,
       "zone": null
     },
     {
@@ -1544,7 +1544,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 0.67,
+      "lastValue": 0.34,
       "zone": null
     },
     {
@@ -1563,7 +1563,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 49,
+      "lastValue": -51,
       "zone": null
     },
     {
@@ -1583,7 +1583,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 0.66,
+      "lastValue": 0.3267,
       "zone": null
     },
     {
@@ -1602,7 +1602,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 36,
+      "lastValue": -48,
       "zone": null
     },
     {
@@ -1622,7 +1622,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 0.68,
+      "lastValue": 0.26,
       "zone": null
     },
     {
@@ -1641,7 +1641,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 84,
+      "lastValue": -122,
       "zone": null
     },
     {
@@ -1661,7 +1661,7 @@
       "points": 6,
       "first": "2026-09-16",
       "last": "2026-09-23",
-      "lastValue": 0.6653,
+      "lastValue": 0.255,
       "zone": null
     },
     {
