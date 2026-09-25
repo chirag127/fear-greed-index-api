@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-25T10:41:05.394Z",
-  "asOf": "2026-09-24",
+  "updated": "2026-09-25T15:37:08.594Z",
+  "asOf": "2026-09-25",
   "headline": {
     "mmi": {
       "title": "Tickertape Market Mood Index",
       "short": "MMI",
-      "value": 16.1506,
+      "value": 16.1504,
       "date": "2026-09-25",
       "zone": {
         "label": "Extreme Fear",
@@ -16,13 +16,13 @@
     "cnn-fng": {
       "title": "CNN Fear & Greed Index",
       "short": "CNN F&G",
-      "value": 36,
+      "value": 37.7714,
       "date": "2026-09-25",
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
       },
-      "previous": 36
+      "previous": 35.7429
     },
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
@@ -38,10 +38,10 @@
     "india-vix": {
       "title": "India VIX",
       "short": "VIX",
-      "value": 12.16,
+      "value": 12.18,
       "date": "2026-09-25",
       "zone": null,
-      "previous": 12.18
+      "previous": 12.69
     }
   },
   "tickertape": {
@@ -66,9 +66,9 @@
     }
   },
   "cnn": {
-    "value": 36,
+    "value": 37.77,
     "rating": "fear",
-    "timestamp": "2026-09-25T10:25:31+00:00",
+    "timestamp": "2026-09-25T15:34:03+00:00",
     "previousClose": 36.11,
     "previous1Week": 30.43,
     "previous1Month": 59.6,
@@ -78,8 +78,8 @@
     "historyFrom": "2020-09-01",
     "historyTo": "2026-09-25",
     "componentDepths": {
-      "cnn-momentum-sp500": 1523,
-      "cnn-momentum-sp125": 1523,
+      "cnn-momentum-sp500": 1524,
+      "cnn-momentum-sp125": 1524,
       "cnn-price-strength": 1523,
       "cnn-price-breadth": 1523,
       "cnn-put-call": 1523,
@@ -101,9 +101,9 @@
         "name": "NIFTY 50",
         "level": 23140.5,
         "changePct": 0.34,
-        "pe": 19.5,
-        "pb": 2.79,
-        "dy": 1.23,
+        "pe": 19.56,
+        "pb": 2.8,
+        "dy": 1.22,
         "advances": 34,
         "declines": 15,
         "yearHigh": 26373.2,
@@ -114,9 +114,9 @@
         "name": "NIFTY 100",
         "level": 24307.55,
         "changePct": 0.38,
-        "pe": 19.38,
-        "pb": 2.85,
-        "dy": 1.19,
+        "pe": 19.45,
+        "pb": 2.87,
+        "dy": 1.18,
         "advances": 68,
         "declines": 31,
         "yearHigh": 26975.15,
@@ -127,11 +127,11 @@
         "name": "NIFTY 500",
         "level": 22603.5,
         "changePct": 0.23,
-        "pe": 21.85,
-        "pb": 3.12,
+        "pe": 21.9,
+        "pb": 3.13,
         "dy": 0.99,
-        "advances": 250,
-        "declines": 248,
+        "advances": 249,
+        "declines": 247,
         "yearHigh": 24144.2,
         "yearLow": 20385.65,
         "pctFromYearHigh": -6.38
@@ -140,8 +140,8 @@
         "name": "NIFTY NEXT 50",
         "level": 71778.65,
         "changePct": 0.56,
-        "pe": 18.87,
-        "pb": 3.17,
+        "pe": 18.97,
+        "pb": 3.19,
         "dy": 1.01,
         "advances": 34,
         "declines": 16,
@@ -153,9 +153,9 @@
         "name": "NIFTY BANK",
         "level": 55580.4,
         "changePct": 0.26,
-        "pe": 13.12,
+        "pe": 13.15,
         "pb": 1.66,
-        "dy": 0.71,
+        "dy": 0.7,
         "advances": 8,
         "declines": 6,
         "yearHigh": 61764.85,
@@ -166,8 +166,8 @@
         "name": "NIFTY MIDCAP 100",
         "level": 60906,
         "changePct": -0.14,
-        "pe": 29.4,
-        "pb": 4.14,
+        "pe": 29.35,
+        "pb": 4.13,
         "dy": 0.56,
         "advances": 54,
         "declines": 46,
@@ -179,8 +179,8 @@
         "name": "NIFTY MIDCAP 150",
         "level": 22437,
         "changePct": -0.15,
-        "pe": 28.1,
-        "pb": 4.18,
+        "pe": 28.06,
+        "pb": 4.17,
         "dy": 0.59,
         "advances": 74,
         "declines": 76,
@@ -192,11 +192,11 @@
         "name": "NIFTY SMALLCAP 100",
         "level": 19715.25,
         "changePct": 0.15,
-        "pe": 31.18,
-        "pb": 3.42,
+        "pe": 31.23,
+        "pb": 3.43,
         "dy": 0.56,
         "advances": 45,
-        "declines": 55,
+        "declines": 54,
         "yearHigh": 20187.8,
         "yearLow": 14986,
         "pctFromYearHigh": -2.34
@@ -205,32 +205,32 @@
         "name": "NIFTY SMALLCAP 250",
         "level": 18158.9,
         "changePct": 0.02,
-        "pe": 33.5,
+        "pe": 33.51,
         "pb": 3.43,
         "dy": 0.57,
-        "advances": 108,
-        "declines": 141,
+        "advances": 107,
+        "declines": 140,
         "yearHigh": 18551,
         "yearLow": 14143.45,
         "pctFromYearHigh": -2.11
       }
     },
     "flows": {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "rows": [
         {
           "category": "DII",
-          "date": "2026-09-24",
-          "buy": 18196.9,
-          "sell": 13895.72,
-          "net": 4301.18
+          "date": "2026-09-25",
+          "buy": 14035.77,
+          "sell": 11197.6,
+          "net": 2838.17
         },
         {
           "category": "FII/FPI",
-          "date": "2026-09-24",
-          "buy": 13111.22,
-          "sell": 18138.58,
-          "net": -5027.36
+          "date": "2026-09-25",
+          "buy": 12327.36,
+          "sell": 16021.29,
+          "net": -3693.93
         }
       ]
     },
@@ -250,9 +250,9 @@
         "ratio": 0.687
       },
       "nifty500": {
-        "advances": 250,
-        "declines": 248,
-        "unchanged": 3,
+        "advances": 249,
+        "declines": 247,
+        "unchanged": 5,
         "net": 2,
         "ratio": 0.502
       },
@@ -286,17 +286,17 @@
       },
       "nifty-smallcap100": {
         "advances": 45,
-        "declines": 55,
-        "unchanged": 0,
-        "net": -10,
-        "ratio": 0.45
+        "declines": 54,
+        "unchanged": 1,
+        "net": -9,
+        "ratio": 0.455
       },
       "nifty-smallcap250": {
-        "advances": 108,
-        "declines": 141,
-        "unchanged": 2,
+        "advances": 107,
+        "declines": 140,
+        "unchanged": 4,
         "net": -33,
-        "ratio": 0.434
+        "ratio": 0.433
       }
     },
     "vix": 12.18
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 242
+      "ms": 281
     },
     "tickertape": {
       "ok": true,
-      "ms": 216
+      "ms": 88
     },
     "nse": {
       "ok": true,
-      "ms": 495
+      "ms": 608
     },
     "cnn": {
       "ok": true,
-      "ms": 128
+      "ms": 125
     },
     "crypto": {
       "ok": true,
-      "ms": 377
+      "ms": 385
     }
   },
   "unavailable": [],
