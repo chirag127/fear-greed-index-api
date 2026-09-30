@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-30T01:41:32.644Z",
+  "updated": "2026-09-30T07:35:49.007Z",
   "asOf": "2026-09-29",
   "headline": {
     "mmi": {
       "title": "Tickertape Market Mood Index",
       "short": "MMI",
-      "value": 16.5051,
-      "date": "2026-09-29",
+      "value": 20.8496,
+      "date": "2026-09-30",
       "zone": {
         "label": "Extreme Fear",
         "color": "#c0392b"
       },
-      "previous": 14.6586
+      "previous": 16.5051
     },
     "cnn-fng": {
       "title": "CNN Fear & Greed Index",
       "short": "CNN F&G",
-      "value": 31.6286,
-      "date": "2026-09-29",
+      "value": 29.1714,
+      "date": "2026-09-30",
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
       },
-      "previous": 34.3714
+      "previous": 29.1714
     },
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
@@ -38,53 +38,53 @@
     "india-vix": {
       "title": "India VIX",
       "short": "VIX",
-      "value": 13.32,
-      "date": "2026-09-29",
+      "value": 12.97,
+      "date": "2026-09-30",
       "zone": null,
-      "previous": 13.64
+      "previous": 12.97
     }
   },
   "tickertape": {
-    "value": 16.51,
-    "date": "2026-09-29",
-    "indicator": 16.51,
-    "nifty": 22716.2,
+    "value": 20.85,
+    "date": "2026-09-30",
+    "indicator": 20.85,
+    "nifty": 22794,
     "lastDay": {
-      "value": 14.66,
-      "date": "2026-09-28",
-      "nifty": 22780.25
+      "value": 16.51,
+      "date": "2026-09-29",
+      "nifty": 22716.2
     },
     "lastWeek": {
-      "value": 30.75,
-      "date": "2026-09-22",
-      "nifty": 23329
+      "value": 33.62,
+      "date": "2026-09-23",
+      "nifty": 23446.8
     },
     "lastMonth": {
-      "value": 53.53,
-      "date": "2026-08-27",
-      "nifty": 24090.85
+      "value": 49.46,
+      "date": "2026-08-28",
+      "nifty": 24175.65
     }
   },
   "cnn": {
-    "value": 31.63,
+    "value": 29.17,
     "rating": "fear",
-    "timestamp": "2026-09-29T23:59:54+00:00",
-    "previousClose": 33.83,
-    "previous1Week": 35.03,
+    "timestamp": "2026-09-30T07:20:16+00:00",
+    "previousClose": 31.63,
+    "previous1Week": 32.54,
     "previous1Month": 53.74,
-    "previous1Year": 50.97,
-    "historyDays": 1525,
+    "previous1Year": 51.4,
+    "historyDays": 1526,
     "historyStart": "2020-09-01",
     "historyFrom": "2020-09-01",
-    "historyTo": "2026-09-29",
+    "historyTo": "2026-09-30",
     "componentDepths": {
       "cnn-momentum-sp500": 1526,
       "cnn-momentum-sp125": 1526,
       "cnn-price-strength": 1526,
       "cnn-price-breadth": 1526,
       "cnn-put-call": 1526,
-      "cnn-vix": 1526,
-      "cnn-vix50": 1526,
+      "cnn-vix": 1527,
+      "cnn-vix50": 1527,
       "cnn-junk-bond": 1526,
       "cnn-safe-haven": 1526
     }
@@ -99,120 +99,120 @@
     "indices": {
       "nifty50": {
         "name": "NIFTY 50",
-        "level": 22716.2,
-        "changePct": -0.28,
+        "level": 22785.6,
+        "changePct": 0.31,
         "pe": 19.2,
         "pb": 2.75,
         "dy": 1.25,
-        "advances": 18,
-        "declines": 31,
+        "advances": 24,
+        "declines": 26,
         "yearHigh": 26373.2,
         "yearLow": 22182.55,
-        "pctFromYearHigh": -13.87
+        "pctFromYearHigh": -13.6
       },
       "nifty100": {
         "name": "NIFTY 100",
-        "level": 23797.65,
-        "changePct": -0.46,
+        "level": 23905.35,
+        "changePct": 0.45,
         "pe": 19.04,
         "pb": 2.81,
         "dy": 1.21,
-        "advances": 31,
-        "declines": 67,
+        "advances": 62,
+        "declines": 38,
         "yearHigh": 26975.15,
         "yearLow": 22720.45,
-        "pctFromYearHigh": -11.78
+        "pctFromYearHigh": -11.38
       },
       "nifty500": {
         "name": "NIFTY 500",
-        "level": 22101,
-        "changePct": -0.59,
+        "level": 22220.1,
+        "changePct": 0.54,
         "pe": 21.42,
         "pb": 3.06,
         "dy": 1.01,
-        "advances": 157,
-        "declines": 341,
+        "advances": 332,
+        "declines": 168,
         "yearHigh": 24144.2,
         "yearLow": 20385.65,
-        "pctFromYearHigh": -8.46
+        "pctFromYearHigh": -7.97
       },
       "nifty-next50": {
         "name": "NIFTY NEXT 50",
-        "level": 69460.2,
-        "changePct": -1.21,
+        "level": 70206.95,
+        "changePct": 1.08,
         "pe": 18.36,
         "pb": 3.09,
         "dy": 1.04,
-        "advances": 13,
-        "declines": 36,
+        "advances": 38,
+        "declines": 12,
         "yearHigh": 75000.4,
         "yearLow": 59896.1,
-        "pctFromYearHigh": -7.39
+        "pctFromYearHigh": -6.39
       },
       "nifty-bank": {
         "name": "NIFTY BANK",
-        "level": 54259.95,
-        "changePct": -0.39,
+        "level": 55067.4,
+        "changePct": 1.49,
         "pe": 12.84,
         "pb": 1.62,
         "dy": 0.72,
-        "advances": 6,
-        "declines": 8,
+        "advances": 13,
+        "declines": 1,
         "yearHigh": 61764.85,
         "yearLow": 49954.85,
-        "pctFromYearHigh": -12.15
+        "pctFromYearHigh": -10.84
       },
       "nifty-midcap100": {
         "name": "NIFTY MIDCAP 100",
-        "level": 59319.4,
-        "changePct": -0.99,
+        "level": 59744.3,
+        "changePct": 0.72,
         "pe": 28.59,
         "pb": 4.02,
         "dy": 0.58,
-        "advances": 23,
-        "declines": 77,
+        "advances": 70,
+        "declines": 30,
         "yearHigh": 64450.9,
         "yearLow": 52032.85,
-        "pctFromYearHigh": -7.96
+        "pctFromYearHigh": -7.3
       },
       "nifty-midcap150": {
         "name": "NIFTY MIDCAP 150",
-        "level": 21853.3,
-        "changePct": -0.99,
+        "level": 21998.2,
+        "changePct": 0.66,
         "pe": 27.33,
         "pb": 4.07,
         "dy": 0.61,
-        "advances": 32,
-        "declines": 118,
+        "advances": 102,
+        "declines": 48,
         "yearHigh": 23647.5,
         "yearLow": 19218,
-        "pctFromYearHigh": -7.59
+        "pctFromYearHigh": -6.97
       },
       "nifty-smallcap100": {
         "name": "NIFTY SMALLCAP 100",
-        "level": 19193.55,
-        "changePct": -0.81,
+        "level": 19350.25,
+        "changePct": 0.82,
         "pe": 30.4,
         "pb": 3.33,
         "dy": 0.58,
-        "advances": 43,
-        "declines": 57,
+        "advances": 71,
+        "declines": 29,
         "yearHigh": 20187.8,
         "yearLow": 14986,
-        "pctFromYearHigh": -4.93
+        "pctFromYearHigh": -4.15
       },
       "nifty-smallcap250": {
         "name": "NIFTY SMALLCAP 250",
-        "level": 17747.25,
-        "changePct": -0.65,
+        "level": 17891.75,
+        "changePct": 0.81,
         "pe": 32.75,
         "pb": 3.35,
         "dy": 0.58,
-        "advances": 94,
-        "declines": 156,
+        "advances": 168,
+        "declines": 82,
         "yearHigh": 18551,
         "yearLow": 14143.45,
-        "pctFromYearHigh": -4.33
+        "pctFromYearHigh": -3.55
       }
     },
     "flows": {
@@ -236,91 +236,91 @@
     },
     "breadth": {
       "nifty50": {
-        "advances": 18,
-        "declines": 31,
-        "unchanged": 1,
-        "net": -13,
-        "ratio": 0.367
-      },
-      "nifty100": {
-        "advances": 31,
-        "declines": 67,
-        "unchanged": 2,
-        "net": -36,
-        "ratio": 0.316
-      },
-      "nifty500": {
-        "advances": 157,
-        "declines": 341,
-        "unchanged": 3,
-        "net": -184,
-        "ratio": 0.315
-      },
-      "nifty-next50": {
-        "advances": 13,
-        "declines": 36,
-        "unchanged": 1,
-        "net": -23,
-        "ratio": 0.265
-      },
-      "nifty-bank": {
-        "advances": 6,
-        "declines": 8,
+        "advances": 24,
+        "declines": 26,
         "unchanged": 0,
         "net": -2,
-        "ratio": 0.429
+        "ratio": 0.48
+      },
+      "nifty100": {
+        "advances": 62,
+        "declines": 38,
+        "unchanged": 0,
+        "net": 24,
+        "ratio": 0.62
+      },
+      "nifty500": {
+        "advances": 332,
+        "declines": 168,
+        "unchanged": 1,
+        "net": 164,
+        "ratio": 0.664
+      },
+      "nifty-next50": {
+        "advances": 38,
+        "declines": 12,
+        "unchanged": 0,
+        "net": 26,
+        "ratio": 0.76
+      },
+      "nifty-bank": {
+        "advances": 13,
+        "declines": 1,
+        "unchanged": 0,
+        "net": 12,
+        "ratio": 0.929
       },
       "nifty-midcap100": {
-        "advances": 23,
-        "declines": 77,
+        "advances": 70,
+        "declines": 30,
         "unchanged": 0,
-        "net": -54,
-        "ratio": 0.23
+        "net": 40,
+        "ratio": 0.7
       },
       "nifty-midcap150": {
-        "advances": 32,
-        "declines": 118,
+        "advances": 102,
+        "declines": 48,
         "unchanged": 0,
-        "net": -86,
-        "ratio": 0.213
+        "net": 54,
+        "ratio": 0.68
       },
       "nifty-smallcap100": {
-        "advances": 43,
-        "declines": 57,
+        "advances": 71,
+        "declines": 29,
         "unchanged": 0,
-        "net": -14,
-        "ratio": 0.43
+        "net": 42,
+        "ratio": 0.71
       },
       "nifty-smallcap250": {
-        "advances": 94,
-        "declines": 156,
+        "advances": 168,
+        "declines": 82,
         "unchanged": 1,
-        "net": -62,
-        "ratio": 0.376
+        "net": 86,
+        "ratio": 0.672
       }
     },
-    "vix": 13.32
+    "vix": 12.97
   },
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 296
+      "ms": 266
     },
     "tickertape": {
       "ok": true,
-      "ms": 192
+      "ms": 102
     },
     "nse": {
       "ok": true,
-      "ms": 454
+      "ms": 182
     },
     "cnn": {
       "ok": true,
-      "ms": 150
+      "ms": 252
     },
     "crypto": {
       "ok": true,
-      "ms": 282
+      "ms": 355
     }
   },
   "unavailable": [],
