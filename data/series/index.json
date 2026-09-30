@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T22:46:24.323Z",
+  "generated": "2026-09-30T01:41:32.642Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -171,10 +171,10 @@
       "source": "alternative.me",
       "sourceUrl": "https://alternative.me/crypto/fear-and-greed-index/",
       "description": "alternative.me crypto sentiment composite. A fast, 24/7 risk-appetite proxy.",
-      "points": 3159,
+      "points": 3160,
       "first": "2018-02-01",
-      "last": "2026-09-29",
-      "lastValue": 73,
+      "last": "2026-09-30",
+      "lastValue": 71,
       "zone": {
         "label": "Greed",
         "color": "#27ae60"
@@ -1329,7 +1329,7 @@
       "points": 10,
       "first": "2026-09-16",
       "last": "2026-09-29",
-      "lastValue": -15,
+      "lastValue": -13,
       "zone": null
     },
     {
@@ -1349,7 +1349,7 @@
       "points": 10,
       "first": "2026-09-16",
       "last": "2026-09-29",
-      "lastValue": 0.34,
+      "lastValue": 0.36,
       "zone": null
     },
     {
@@ -1368,7 +1368,7 @@
       "points": 10,
       "first": "2026-09-16",
       "last": "2026-09-29",
-      "lastValue": -42,
+      "lastValue": -36,
       "zone": null
     },
     {
@@ -1388,7 +1388,7 @@
       "points": 10,
       "first": "2026-09-16",
       "last": "2026-09-29",
-      "lastValue": 0.28,
+      "lastValue": 0.31,
       "zone": null
     },
     {
@@ -1407,7 +1407,7 @@
       "points": 10,
       "first": "2026-09-16",
       "last": "2026-09-29",
-      "lastValue": -224,
+      "lastValue": -184,
       "zone": null
     },
     {
@@ -1427,7 +1427,7 @@
       "points": 10,
       "first": "2026-09-16",
       "last": "2026-09-29",
-      "lastValue": 0.2735,
+      "lastValue": 0.3134,
       "zone": null
     },
     {
@@ -1446,7 +1446,7 @@
       "points": 10,
       "first": "2026-09-16",
       "last": "2026-09-29",
-      "lastValue": -27,
+      "lastValue": -23,
       "zone": null
     },
     {
@@ -1466,7 +1466,7 @@
       "points": 10,
       "first": "2026-09-16",
       "last": "2026-09-29",
-      "lastValue": 0.22,
+      "lastValue": 0.26,
       "zone": null
     },
     {
@@ -1524,7 +1524,7 @@
       "points": 10,
       "first": "2026-09-16",
       "last": "2026-09-29",
-      "lastValue": -48,
+      "lastValue": -54,
       "zone": null
     },
     {
@@ -1544,7 +1544,7 @@
       "points": 10,
       "first": "2026-09-16",
       "last": "2026-09-29",
-      "lastValue": 0.26,
+      "lastValue": 0.23,
       "zone": null
     },
     {
@@ -1563,7 +1563,7 @@
       "points": 10,
       "first": "2026-09-16",
       "last": "2026-09-29",
-      "lastValue": -76,
+      "lastValue": -86,
       "zone": null
     },
     {
@@ -1583,7 +1583,7 @@
       "points": 10,
       "first": "2026-09-16",
       "last": "2026-09-29",
-      "lastValue": 0.2467,
+      "lastValue": 0.2133,
       "zone": null
     },
     {
@@ -1602,7 +1602,7 @@
       "points": 10,
       "first": "2026-09-16",
       "last": "2026-09-29",
-      "lastValue": -42,
+      "lastValue": -14,
       "zone": null
     },
     {
@@ -1622,7 +1622,7 @@
       "points": 10,
       "first": "2026-09-16",
       "last": "2026-09-29",
-      "lastValue": 0.29,
+      "lastValue": 0.43,
       "zone": null
     },
     {
@@ -1641,7 +1641,7 @@
       "points": 10,
       "first": "2026-09-16",
       "last": "2026-09-29",
-      "lastValue": -106,
+      "lastValue": -62,
       "zone": null
     },
     {
@@ -1661,7 +1661,7 @@
       "points": 10,
       "first": "2026-09-16",
       "last": "2026-09-29",
-      "lastValue": 0.2869,
+      "lastValue": 0.3745,
       "zone": null
     },
     {
