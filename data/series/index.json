@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T07:38:06.445Z",
+  "generated": "2026-10-02T14:13:41.884Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -257,7 +257,7 @@
       "points": 1528,
       "first": "2020-09-01",
       "last": "2026-10-02",
-      "lastValue": 27.1714,
+      "lastValue": 31.8857,
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
@@ -277,10 +277,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: S&P 500 Momentum. Raw indicator value (not a 0-100 score).",
-      "points": 1527,
+      "points": 1528,
       "first": "2020-09-01",
-      "last": "2026-10-01",
-      "lastValue": 7666.45,
+      "last": "2026-10-02",
+      "lastValue": 7739.6,
       "zone": null
     },
     {
@@ -297,10 +297,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: S&P 125-Day Momentum. Raw indicator value (not a 0-100 score).",
-      "points": 1527,
+      "points": 1528,
       "first": "2020-09-01",
-      "last": "2026-10-01",
-      "lastValue": 7463.1382,
+      "last": "2026-10-02",
+      "lastValue": 7472.1603,
       "zone": null
     },
     {
@@ -320,7 +320,7 @@
       "points": 1528,
       "first": "2020-09-01",
       "last": "2026-10-02",
-      "lastValue": -8.8589,
+      "lastValue": -8.2372,
       "zone": null
     },
     {
@@ -340,7 +340,7 @@
       "points": 1528,
       "first": "2020-09-01",
       "last": "2026-10-02",
-      "lastValue": 142.6232,
+      "lastValue": 143.4756,
       "zone": null
     },
     {
@@ -357,10 +357,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: Put/Call Options. Raw indicator value (not a 0-100 score).",
-      "points": 1527,
+      "points": 1528,
       "first": "2020-09-01",
-      "last": "2026-10-01",
-      "lastValue": 0.75,
+      "last": "2026-10-02",
+      "lastValue": 0.7361,
       "zone": null
     },
     {
@@ -380,7 +380,7 @@
       "points": 1528,
       "first": "2020-09-01",
       "last": "2026-10-02",
-      "lastValue": 16.22,
+      "lastValue": 15.64,
       "zone": null
     },
     {
@@ -400,7 +400,7 @@
       "points": 1528,
       "first": "2020-09-01",
       "last": "2026-10-02",
-      "lastValue": 15.8678,
+      "lastValue": 15.8562,
       "zone": null
     },
     {
@@ -420,7 +420,7 @@
       "points": 1528,
       "first": "2020-09-01",
       "last": "2026-10-02",
-      "lastValue": 1.2454,
+      "lastValue": 1.2558,
       "zone": null
     },
     {
@@ -437,10 +437,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: Safe Haven Demand. Raw indicator value (not a 0-100 score).",
-      "points": 1527,
+      "points": 1528,
       "first": "2020-09-01",
-      "last": "2026-10-01",
-      "lastValue": 1.9834,
+      "last": "2026-10-02",
+      "lastValue": 3.0403,
       "zone": null
     },
     {

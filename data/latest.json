@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T07:38:06.447Z",
+  "updated": "2026-10-02T14:13:41.886Z",
   "asOf": "2026-10-01",
   "headline": {
     "mmi": {
@@ -16,13 +16,13 @@
     "cnn-fng": {
       "title": "CNN Fear & Greed Index",
       "short": "CNN F&G",
-      "value": 27.1714,
+      "value": 31.8857,
       "date": "2026-10-02",
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
       },
-      "previous": 27.1714
+      "previous": 28.9143
     },
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
@@ -66,9 +66,9 @@
     }
   },
   "cnn": {
-    "value": 27.17,
+    "value": 31.89,
     "rating": "fear",
-    "timestamp": "2026-10-02T07:22:31+00:00",
+    "timestamp": "2026-10-02T14:12:07+00:00",
     "previousClose": 28.09,
     "previous1Week": 36.94,
     "previous1Month": 46.06,
@@ -78,8 +78,8 @@
     "historyFrom": "2020-09-01",
     "historyTo": "2026-10-02",
     "componentDepths": {
-      "cnn-momentum-sp500": 1528,
-      "cnn-momentum-sp125": 1528,
+      "cnn-momentum-sp500": 1529,
+      "cnn-momentum-sp125": 1529,
       "cnn-price-strength": 1528,
       "cnn-price-breadth": 1528,
       "cnn-put-call": 1528,
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 243
+      "ms": 334
     },
     "tickertape": {
       "ok": true,
-      "ms": 143
+      "ms": 204
     },
     "nse": {
       "ok": true,
-      "ms": 158
+      "ms": 834
     },
     "cnn": {
       "ok": true,
-      "ms": 256
+      "ms": 186
     },
     "crypto": {
       "ok": true,
-      "ms": 207
+      "ms": 317
     }
   },
   "unavailable": [],
