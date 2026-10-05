@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T09:41:50.832Z",
+  "generated": "2026-10-05T18:54:07.554Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -130,7 +130,7 @@
       "points": 13,
       "first": "2026-09-16",
       "last": "2026-10-05",
-      "lastValue": 12.3159,
+      "lastValue": 12.5936,
       "zone": {
         "label": "Extreme Fear",
         "color": "#c0392b"
@@ -153,7 +153,7 @@
       "points": 2463,
       "first": "2016-09-16",
       "last": "2026-10-05",
-      "lastValue": 14.9575,
+      "lastValue": 14.67,
       "zone": null
     },
     {
@@ -236,7 +236,7 @@
       "points": 13,
       "first": "2026-09-16",
       "last": "2026-10-05",
-      "lastValue": 22531.25,
+      "lastValue": 22555.75,
       "zone": null
     },
     {
@@ -257,7 +257,7 @@
       "points": 1529,
       "first": "2020-09-01",
       "last": "2026-10-05",
-      "lastValue": 38.2857,
+      "lastValue": 43.8571,
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
@@ -277,10 +277,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: S&P 500 Momentum. Raw indicator value (not a 0-100 score).",
-      "points": 1528,
+      "points": 1529,
       "first": "2020-09-01",
-      "last": "2026-10-02",
-      "lastValue": 7722.72,
+      "last": "2026-10-05",
+      "lastValue": 7779.27,
       "zone": null
     },
     {
@@ -297,10 +297,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: S&P 125-Day Momentum. Raw indicator value (not a 0-100 score).",
-      "points": 1528,
+      "points": 1529,
       "first": "2020-09-01",
-      "last": "2026-10-02",
-      "lastValue": 7472.0253,
+      "last": "2026-10-05",
+      "lastValue": 7481.3246,
       "zone": null
     },
     {
@@ -317,10 +317,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: Stock Price Strength. Raw indicator value (not a 0-100 score).",
-      "points": 1528,
+      "points": 1529,
       "first": "2020-09-01",
-      "last": "2026-10-02",
-      "lastValue": -8.3841,
+      "last": "2026-10-05",
+      "lastValue": -8.632,
       "zone": null
     },
     {
@@ -337,10 +337,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: Stock Price Breadth. Raw indicator value (not a 0-100 score).",
-      "points": 1528,
+      "points": 1529,
       "first": "2020-09-01",
-      "last": "2026-10-02",
-      "lastValue": 144.909,
+      "last": "2026-10-05",
+      "lastValue": 146.7463,
       "zone": null
     },
     {
@@ -357,10 +357,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: Put/Call Options. Raw indicator value (not a 0-100 score).",
-      "points": 1528,
+      "points": 1529,
       "first": "2020-09-01",
-      "last": "2026-10-02",
-      "lastValue": 0.7617,
+      "last": "2026-10-05",
+      "lastValue": 0.7523,
       "zone": null
     },
     {
@@ -380,7 +380,7 @@
       "points": 1529,
       "first": "2020-09-01",
       "last": "2026-10-05",
-      "lastValue": 16.23,
+      "lastValue": 15.59,
       "zone": null
     },
     {
@@ -400,7 +400,7 @@
       "points": 1529,
       "first": "2020-09-01",
       "last": "2026-10-05",
-      "lastValue": 15.8026,
+      "lastValue": 15.7898,
       "zone": null
     },
     {
@@ -417,10 +417,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: Junk Bond Demand. Raw indicator value (not a 0-100 score).",
-      "points": 1528,
+      "points": 1529,
       "first": "2020-09-01",
-      "last": "2026-10-02",
-      "lastValue": 1.2484,
+      "last": "2026-10-05",
+      "lastValue": 1.1449,
       "zone": null
     },
     {
@@ -437,10 +437,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: Safe Haven Demand. Raw indicator value (not a 0-100 score).",
-      "points": 1528,
+      "points": 1529,
       "first": "2020-09-01",
-      "last": "2026-10-02",
-      "lastValue": 3.3443,
+      "last": "2026-10-05",
+      "lastValue": 4.8527,
       "zone": null
     },
     {
@@ -457,10 +457,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing price-to-earnings ratio for NIFTY 50, as published by NSE.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 19.19,
+      "last": "2026-10-05",
+      "lastValue": 19.3,
       "zone": null
     },
     {
@@ -477,10 +477,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Price-to-book ratio for NIFTY 50.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 2.75,
+      "last": "2026-10-05",
+      "lastValue": 2.77,
       "zone": null
     },
     {
@@ -496,9 +496,9 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Dividend yield for NIFTY 50 in percent. High yield often marks value/despair.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
+      "last": "2026-10-05",
       "lastValue": 1.23,
       "zone": null
     },
@@ -518,7 +518,7 @@
       "points": 2491,
       "first": "2016-09-01",
       "last": "2026-10-05",
-      "lastValue": 22528.5,
+      "lastValue": 22555.75,
       "zone": null
     },
     {
@@ -535,10 +535,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing price-to-earnings ratio for NIFTY 100, as published by NSE.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 18.97,
+      "last": "2026-10-05",
+      "lastValue": 19.07,
       "zone": null
     },
     {
@@ -555,10 +555,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Price-to-book ratio for NIFTY 100.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 2.84,
+      "last": "2026-10-05",
+      "lastValue": 2.86,
       "zone": null
     },
     {
@@ -574,10 +574,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Dividend yield for NIFTY 100 in percent. High yield often marks value/despair.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 1.2,
+      "last": "2026-10-05",
+      "lastValue": 1.19,
       "zone": null
     },
     {
@@ -596,7 +596,7 @@
       "points": 2490,
       "first": "2016-09-01",
       "last": "2026-10-05",
-      "lastValue": 23616.4004,
+      "lastValue": 23645.3,
       "zone": null
     },
     {
@@ -613,10 +613,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing price-to-earnings ratio for NIFTY 500, as published by NSE.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 21.56,
+      "last": "2026-10-05",
+      "lastValue": 21.67,
       "zone": null
     },
     {
@@ -633,10 +633,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Price-to-book ratio for NIFTY 500.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 3.06,
+      "last": "2026-10-05",
+      "lastValue": 3.08,
       "zone": null
     },
     {
@@ -652,9 +652,9 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Dividend yield for NIFTY 500 in percent. High yield often marks value/despair.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
+      "last": "2026-10-05",
       "lastValue": 1.03,
       "zone": null
     },
@@ -674,7 +674,7 @@
       "points": 2490,
       "first": "2016-09-01",
       "last": "2026-10-05",
-      "lastValue": 21944.9004,
+      "lastValue": 21971.6,
       "zone": null
     },
     {
@@ -691,10 +691,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing price-to-earnings ratio for NIFTY NEXT 50, as published by NSE.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 18.08,
+      "last": "2026-10-05",
+      "lastValue": 18.14,
       "zone": null
     },
     {
@@ -711,10 +711,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Price-to-book ratio for NIFTY NEXT 50.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 3.31,
+      "last": "2026-10-05",
+      "lastValue": 3.33,
       "zone": null
     },
     {
@@ -730,10 +730,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Dividend yield for NIFTY NEXT 50 in percent. High yield often marks value/despair.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 1.06,
+      "last": "2026-10-05",
+      "lastValue": 1.05,
       "zone": null
     },
     {
@@ -749,10 +749,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY NEXT 50.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 69084.9,
+      "last": "2026-10-05",
+      "lastValue": 69213.75,
       "zone": null
     },
     {
@@ -769,10 +769,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing price-to-earnings ratio for NIFTY BANK, as published by NSE.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 12.91,
+      "last": "2026-10-05",
+      "lastValue": 12.97,
       "zone": null
     },
     {
@@ -789,10 +789,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Price-to-book ratio for NIFTY BANK.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 1.64,
+      "last": "2026-10-05",
+      "lastValue": 1.65,
       "zone": null
     },
     {
@@ -808,10 +808,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Dividend yield for NIFTY BANK in percent. High yield often marks value/despair.",
-      "points": 2447,
+      "points": 2448,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 0.73,
+      "last": "2026-10-05",
+      "lastValue": 0.72,
       "zone": null
     },
     {
@@ -830,7 +830,7 @@
       "points": 2490,
       "first": "2016-09-01",
       "last": "2026-10-05",
-      "lastValue": 54656.1484,
+      "lastValue": 54714.1,
       "zone": null
     },
     {
@@ -847,10 +847,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing price-to-earnings ratio for NIFTY MIDCAP 100, as published by NSE.",
-      "points": 2100,
+      "points": 2101,
       "first": "2018-04-02",
-      "last": "2026-10-01",
-      "lastValue": 27.7,
+      "last": "2026-10-05",
+      "lastValue": 27.88,
       "zone": null
     },
     {
@@ -867,10 +867,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Price-to-book ratio for NIFTY MIDCAP 100.",
-      "points": 2100,
+      "points": 2101,
       "first": "2018-04-02",
-      "last": "2026-10-01",
-      "lastValue": 3.73,
+      "last": "2026-10-05",
+      "lastValue": 3.76,
       "zone": null
     },
     {
@@ -886,10 +886,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Dividend yield for NIFTY MIDCAP 100 in percent. High yield often marks value/despair.",
-      "points": 2100,
+      "points": 2101,
       "first": "2018-04-02",
-      "last": "2026-10-01",
-      "lastValue": 0.65,
+      "last": "2026-10-05",
+      "lastValue": 0.66,
       "zone": null
     },
     {
@@ -905,10 +905,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY MIDCAP 100.",
-      "points": 2100,
+      "points": 2101,
       "first": "2018-04-02",
-      "last": "2026-10-01",
-      "lastValue": 58985.45,
+      "last": "2026-10-05",
+      "lastValue": 59123.65,
       "zone": null
     },
     {
@@ -925,10 +925,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing price-to-earnings ratio for NIFTY MIDCAP 150, as published by NSE.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 28.1,
+      "last": "2026-10-05",
+      "lastValue": 28.25,
       "zone": null
     },
     {
@@ -945,10 +945,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Price-to-book ratio for NIFTY MIDCAP 150.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 3.79,
+      "last": "2026-10-05",
+      "lastValue": 3.81,
       "zone": null
     },
     {
@@ -964,10 +964,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Dividend yield for NIFTY MIDCAP 150 in percent. High yield often marks value/despair.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 0.72,
+      "last": "2026-10-05",
+      "lastValue": 0.73,
       "zone": null
     },
     {
@@ -983,10 +983,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY MIDCAP 150.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 21712.2,
+      "last": "2026-10-05",
+      "lastValue": 21755.3,
       "zone": null
     },
     {
@@ -1003,10 +1003,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing price-to-earnings ratio for NIFTY SMALLCAP 100, as published by NSE.",
-      "points": 2100,
+      "points": 2101,
       "first": "2018-04-02",
-      "last": "2026-10-01",
-      "lastValue": 37.37,
+      "last": "2026-10-05",
+      "lastValue": 37.54,
       "zone": null
     },
     {
@@ -1023,10 +1023,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Price-to-book ratio for NIFTY SMALLCAP 100.",
-      "points": 2100,
+      "points": 2101,
       "first": "2018-04-02",
-      "last": "2026-10-01",
-      "lastValue": 3.69,
+      "last": "2026-10-05",
+      "lastValue": 3.71,
       "zone": null
     },
     {
@@ -1042,10 +1042,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Dividend yield for NIFTY SMALLCAP 100 in percent. High yield often marks value/despair.",
-      "points": 2100,
+      "points": 2101,
       "first": "2018-04-02",
-      "last": "2026-10-01",
-      "lastValue": 0.55,
+      "last": "2026-10-05",
+      "lastValue": 0.54,
       "zone": null
     },
     {
@@ -1061,10 +1061,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY SMALLCAP 100.",
-      "points": 2100,
+      "points": 2101,
       "first": "2018-04-02",
-      "last": "2026-10-01",
-      "lastValue": 19144.4,
+      "last": "2026-10-05",
+      "lastValue": 19149.1,
       "zone": null
     },
     {
@@ -1081,10 +1081,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing price-to-earnings ratio for NIFTY SMALLCAP 250, as published by NSE.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 34.05,
+      "last": "2026-10-05",
+      "lastValue": 34.18,
       "zone": null
     },
     {
@@ -1101,10 +1101,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Price-to-book ratio for NIFTY SMALLCAP 250.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 3.38,
+      "last": "2026-10-05",
+      "lastValue": 3.4,
       "zone": null
     },
     {
@@ -1120,9 +1120,9 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Dividend yield for NIFTY SMALLCAP 250 in percent. High yield often marks value/despair.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
+      "last": "2026-10-05",
       "lastValue": 0.62,
       "zone": null
     },
@@ -1139,10 +1139,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY SMALLCAP 250.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 17656.15,
+      "last": "2026-10-05",
+      "lastValue": 17655.35,
       "zone": null
     },
     {
@@ -1160,9 +1160,9 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing P/E for the NIFTY IT sector index — the valuation-rotation view.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
+      "last": "2026-10-05",
       "lastValue": 17.8,
       "zone": null
     },
@@ -1181,10 +1181,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing P/E for the NIFTY AUTO sector index — the valuation-rotation view.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 29.5,
+      "last": "2026-10-05",
+      "lastValue": 29.55,
       "zone": null
     },
     {
@@ -1202,10 +1202,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing P/E for the NIFTY FMCG sector index — the valuation-rotation view.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 30.37,
+      "last": "2026-10-05",
+      "lastValue": 30.91,
       "zone": null
     },
     {
@@ -1223,10 +1223,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing P/E for the NIFTY METAL sector index — the valuation-rotation view.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 16.34,
+      "last": "2026-10-05",
+      "lastValue": 16.39,
       "zone": null
     },
     {
@@ -1244,10 +1244,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing P/E for the NIFTY PHARMA sector index — the valuation-rotation view.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 40.7,
+      "last": "2026-10-05",
+      "lastValue": 40.4,
       "zone": null
     },
     {
@@ -1265,10 +1265,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing P/E for the NIFTY REALTY sector index — the valuation-rotation view.",
-      "points": 2455,
+      "points": 2456,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 35.36,
+      "last": "2026-10-05",
+      "lastValue": 35.56,
       "zone": null
     },
     {
@@ -1286,10 +1286,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing P/E for the NIFTY ENERGY sector index — the valuation-rotation view.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 14.41,
+      "last": "2026-10-05",
+      "lastValue": 14.49,
       "zone": null
     },
     {
@@ -1307,10 +1307,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Trailing P/E for the NIFTY FINANCIAL SERVICES sector index — the valuation-rotation view.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-01",
-      "last": "2026-10-01",
-      "lastValue": 15.05,
+      "last": "2026-10-05",
+      "lastValue": 15.11,
       "zone": null
     },
     {
@@ -1326,10 +1326,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances minus declines across NIFTY 50 constituents. Breadth thrusts precede trend changes.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 4,
+      "last": "2026-10-05",
+      "lastValue": 13,
       "zone": null
     },
     {
@@ -1346,10 +1346,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances / (advances + declines) for NIFTY 50. Above 0.5 means broad participation.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 0.54,
+      "last": "2026-10-05",
+      "lastValue": 0.62,
       "zone": null
     },
     {
@@ -1365,10 +1365,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances minus declines across NIFTY 100 constituents. Breadth thrusts precede trend changes.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 4,
+      "last": "2026-10-05",
+      "lastValue": 25,
       "zone": null
     },
     {
@@ -1385,10 +1385,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances / (advances + declines) for NIFTY 100. Above 0.5 means broad participation.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 0.52,
+      "last": "2026-10-05",
+      "lastValue": 0.62,
       "zone": null
     },
     {
@@ -1404,10 +1404,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances minus declines across NIFTY 500 constituents. Breadth thrusts precede trend changes.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 21,
+      "last": "2026-10-05",
+      "lastValue": 50,
       "zone": null
     },
     {
@@ -1424,10 +1424,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances / (advances + declines) for NIFTY 500. Above 0.5 means broad participation.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 0.519,
+      "last": "2026-10-05",
+      "lastValue": 0.5469,
       "zone": null
     },
     {
@@ -1443,10 +1443,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances minus declines across NIFTY NEXT 50 constituents. Breadth thrusts precede trend changes.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 0,
+      "last": "2026-10-05",
+      "lastValue": 12,
       "zone": null
     },
     {
@@ -1463,10 +1463,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances / (advances + declines) for NIFTY NEXT 50. Above 0.5 means broad participation.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 0.5,
+      "last": "2026-10-05",
+      "lastValue": 0.62,
       "zone": null
     },
     {
@@ -1482,10 +1482,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances minus declines across NIFTY BANK constituents. Breadth thrusts precede trend changes.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 6,
+      "last": "2026-10-05",
+      "lastValue": 8,
       "zone": null
     },
     {
@@ -1502,10 +1502,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances / (advances + declines) for NIFTY BANK. Above 0.5 means broad participation.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 0.7143,
+      "last": "2026-10-05",
+      "lastValue": 0.7857,
       "zone": null
     },
     {
@@ -1521,10 +1521,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances minus declines across NIFTY MIDCAP 100 constituents. Breadth thrusts precede trend changes.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 22,
+      "last": "2026-10-05",
+      "lastValue": 29,
       "zone": null
     },
     {
@@ -1541,10 +1541,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances / (advances + declines) for NIFTY MIDCAP 100. Above 0.5 means broad participation.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 0.61,
+      "last": "2026-10-05",
+      "lastValue": 0.64,
       "zone": null
     },
     {
@@ -1560,10 +1560,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances minus declines across NIFTY MIDCAP 150 constituents. Breadth thrusts precede trend changes.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 22,
+      "last": "2026-10-05",
+      "lastValue": 29,
       "zone": null
     },
     {
@@ -1580,10 +1580,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances / (advances + declines) for NIFTY MIDCAP 150. Above 0.5 means broad participation.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 0.5733,
+      "last": "2026-10-05",
+      "lastValue": 0.5933,
       "zone": null
     },
     {
@@ -1599,9 +1599,9 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances minus declines across NIFTY SMALLCAP 100 constituents. Breadth thrusts precede trend changes.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
+      "last": "2026-10-05",
       "lastValue": -4,
       "zone": null
     },
@@ -1619,9 +1619,9 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances / (advances + declines) for NIFTY SMALLCAP 100. Above 0.5 means broad participation.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
+      "last": "2026-10-05",
       "lastValue": 0.48,
       "zone": null
     },
@@ -1638,10 +1638,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances minus declines across NIFTY SMALLCAP 250 constituents. Breadth thrusts precede trend changes.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": -5,
+      "last": "2026-10-05",
+      "lastValue": -4,
       "zone": null
     },
     {
@@ -1658,10 +1658,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Advances / (advances + declines) for NIFTY SMALLCAP 250. Above 0.5 means broad participation.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 0.4861,
+      "last": "2026-10-05",
+      "lastValue": 0.49,
       "zone": null
     },
     {
@@ -1677,10 +1677,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/fiidiiTradeReact",
       "description": "Foreign institutional net buy/sell in the cash market, in INR crore.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": -9484.22,
+      "last": "2026-10-05",
+      "lastValue": -4699.14,
       "zone": null
     },
     {
@@ -1696,10 +1696,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/fiidiiTradeReact",
       "description": "Domestic institutional net buy/sell in the cash market, in INR crore.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 10041.84,
+      "last": "2026-10-05",
+      "lastValue": 5181.62,
       "zone": null
     },
     {
@@ -1716,10 +1716,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/fiidiiTradeReact",
       "description": "Running sum of FII net flows — the persistent-foreign-selling signal.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": -51097.93,
+      "last": "2026-10-05",
+      "lastValue": -55797.07,
       "zone": null
     },
     {
@@ -1736,10 +1736,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/fiidiiTradeReact",
       "description": "Running sum of DII net flows. DIIs often absorb FII selling.",
-      "points": 12,
+      "points": 13,
       "first": "2026-09-16",
-      "last": "2026-10-01",
-      "lastValue": 58399.12,
+      "last": "2026-10-05",
+      "lastValue": 63580.74,
       "zone": null
     }
   ]
