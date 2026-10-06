@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-06T13:49:43.651Z",
+  "updated": "2026-10-06T19:09:43.534Z",
   "asOf": "2026-10-06",
   "headline": {
     "mmi": {
       "title": "Tickertape Market Mood Index",
       "short": "MMI",
-      "value": 17.3943,
+      "value": 17.3941,
       "date": "2026-10-06",
       "zone": {
         "label": "Extreme Fear",
@@ -16,7 +16,7 @@
     "cnn-fng": {
       "title": "CNN Fear & Greed Index",
       "short": "CNN F&G",
-      "value": 47.9429,
+      "value": 48.0571,
       "date": "2026-10-06",
       "zone": {
         "label": "Neutral",
@@ -66,9 +66,9 @@
     }
   },
   "cnn": {
-    "value": 47.94,
+    "value": 48.06,
     "rating": "neutral",
-    "timestamp": "2026-10-06T13:48:37+00:00",
+    "timestamp": "2026-10-06T19:09:03+00:00",
     "previousClose": 43.03,
     "previous1Week": 28.86,
     "previous1Month": 45.23,
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 367
+      "ms": 294
     },
     "tickertape": {
       "ok": true,
-      "ms": 189
+      "ms": 59
     },
     "nse": {
       "ok": true,
-      "ms": 170
+      "ms": 119
     },
     "cnn": {
       "ok": true,
-      "ms": 295
+      "ms": 243
     },
     "crypto": {
       "ok": true,
-      "ms": 250
+      "ms": 367
     }
   },
   "unavailable": [],
