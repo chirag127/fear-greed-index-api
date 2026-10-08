@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T17:01:36.072Z",
+  "generated": "2026-10-08T22:33:25.141Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -257,7 +257,7 @@
       "points": 1532,
       "first": "2020-09-01",
       "last": "2026-10-08",
-      "lastValue": 39.0857,
+      "lastValue": 38.1143,
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
@@ -280,7 +280,7 @@
       "points": 1532,
       "first": "2020-09-01",
       "last": "2026-10-08",
-      "lastValue": 7763.66,
+      "lastValue": 7765.36,
       "zone": null
     },
     {
@@ -300,7 +300,7 @@
       "points": 1532,
       "first": "2020-09-01",
       "last": "2026-10-08",
-      "lastValue": 7504.9621,
+      "lastValue": 7504.9757,
       "zone": null
     },
     {
@@ -320,7 +320,7 @@
       "points": 1532,
       "first": "2020-09-01",
       "last": "2026-10-08",
-      "lastValue": -8.7595,
+      "lastValue": -8.7552,
       "zone": null
     },
     {
@@ -340,7 +340,7 @@
       "points": 1532,
       "first": "2020-09-01",
       "last": "2026-10-08",
-      "lastValue": 143.287,
+      "lastValue": 167.1101,
       "zone": null
     },
     {
@@ -360,7 +360,7 @@
       "points": 1532,
       "first": "2020-09-01",
       "last": "2026-10-08",
-      "lastValue": 0.7442,
+      "lastValue": 0.7583,
       "zone": null
     },
     {
@@ -380,7 +380,7 @@
       "points": 1532,
       "first": "2020-09-01",
       "last": "2026-10-08",
-      "lastValue": 15.34,
+      "lastValue": 15.41,
       "zone": null
     },
     {
@@ -400,7 +400,7 @@
       "points": 1532,
       "first": "2020-09-01",
       "last": "2026-10-08",
-      "lastValue": 15.5462,
+      "lastValue": 15.5476,
       "zone": null
     },
     {
@@ -420,7 +420,7 @@
       "points": 1532,
       "first": "2020-09-01",
       "last": "2026-10-08",
-      "lastValue": 1.1597,
+      "lastValue": 1.1641,
       "zone": null
     },
     {
@@ -440,7 +440,7 @@
       "points": 1532,
       "first": "2020-09-01",
       "last": "2026-10-08",
-      "lastValue": 2.9572,
+      "lastValue": 2.9368,
       "zone": null
     },
     {
