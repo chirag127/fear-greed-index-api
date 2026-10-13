@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T19:27:40.847Z",
+  "updated": "2026-10-13T01:41:24.869Z",
   "asOf": "2026-10-12",
   "headline": {
     "mmi": {
@@ -16,7 +16,7 @@
     "cnn-fng": {
       "title": "CNN Fear & Greed Index",
       "short": "CNN F&G",
-      "value": 45.0571,
+      "value": 45.7429,
       "date": "2026-10-12",
       "zone": {
         "label": "Neutral",
@@ -27,13 +27,13 @@
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
       "short": "Crypto F&G",
-      "value": 69,
-      "date": "2026-10-12",
+      "value": 57,
+      "date": "2026-10-13",
       "zone": {
         "label": "Greed",
         "color": "#27ae60"
       },
-      "previous": 61
+      "previous": 69
     },
     "india-vix": {
       "title": "India VIX",
@@ -66,9 +66,9 @@
     }
   },
   "cnn": {
-    "value": 45.06,
+    "value": 45.74,
     "rating": "neutral",
-    "timestamp": "2026-10-12T19:25:58+00:00",
+    "timestamp": "2026-10-12T23:59:52+00:00",
     "previousClose": 45,
     "previous1Week": 43.71,
     "previous1Month": 32.69,
@@ -80,20 +80,20 @@
     "componentDepths": {
       "cnn-momentum-sp500": 1535,
       "cnn-momentum-sp125": 1535,
-      "cnn-price-strength": 1534,
-      "cnn-price-breadth": 1534,
-      "cnn-put-call": 1534,
+      "cnn-price-strength": 1535,
+      "cnn-price-breadth": 1535,
+      "cnn-put-call": 1535,
       "cnn-vix": 1535,
       "cnn-vix50": 1535,
-      "cnn-junk-bond": 1534,
-      "cnn-safe-haven": 1534
+      "cnn-junk-bond": 1535,
+      "cnn-safe-haven": 1535
     }
   },
   "crypto": {
-    "value": 69,
+    "value": 57,
     "classification": "Greed",
-    "timestamp": "2026-10-12",
-    "historyDays": 3172
+    "timestamp": "2026-10-13",
+    "historyDays": 3173
   },
   "nse": {
     "indices": {
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 334
+      "ms": 321
     },
     "tickertape": {
       "ok": true,
-      "ms": 121
+      "ms": 163
     },
     "nse": {
       "ok": true,
-      "ms": 764
+      "ms": 150
     },
     "cnn": {
       "ok": true,
-      "ms": 185
+      "ms": 216
     },
     "crypto": {
       "ok": true,
-      "ms": 282
+      "ms": 226
     }
   },
   "unavailable": [],
