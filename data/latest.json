@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T21:37:07.827Z",
+  "updated": "2026-10-14T00:41:50.458Z",
   "asOf": "2026-10-13",
   "headline": {
     "mmi": {
@@ -27,13 +27,13 @@
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
       "short": "Crypto F&G",
-      "value": 57,
-      "date": "2026-10-13",
+      "value": 62,
+      "date": "2026-10-14",
       "zone": {
         "label": "Greed",
         "color": "#27ae60"
       },
-      "previous": 69
+      "previous": 57
     },
     "india-vix": {
       "title": "India VIX",
@@ -68,7 +68,7 @@
   "cnn": {
     "value": 44.74,
     "rating": "fear",
-    "timestamp": "2026-10-13T21:18:23+00:00",
+    "timestamp": "2026-10-13T23:59:52+00:00",
     "previousClose": 45.74,
     "previous1Week": 46.8,
     "previous1Month": 32.69,
@@ -80,20 +80,20 @@
     "componentDepths": {
       "cnn-momentum-sp500": 1536,
       "cnn-momentum-sp125": 1536,
-      "cnn-price-strength": 1535,
-      "cnn-price-breadth": 1535,
-      "cnn-put-call": 1535,
+      "cnn-price-strength": 1536,
+      "cnn-price-breadth": 1536,
+      "cnn-put-call": 1536,
       "cnn-vix": 1536,
       "cnn-vix50": 1536,
-      "cnn-junk-bond": 1535,
-      "cnn-safe-haven": 1535
+      "cnn-junk-bond": 1536,
+      "cnn-safe-haven": 1536
     }
   },
   "crypto": {
-    "value": 57,
+    "value": 62,
     "classification": "Greed",
-    "timestamp": "2026-10-13",
-    "historyDays": 3173
+    "timestamp": "2026-10-14",
+    "historyDays": 3174
   },
   "nse": {
     "indices": {
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 313
+      "ms": 327
     },
     "tickertape": {
       "ok": true,
-      "ms": 88
+      "ms": 125
     },
     "nse": {
       "ok": true,
-      "ms": 498
+      "ms": 773
     },
     "cnn": {
       "ok": true,
-      "ms": 176
+      "ms": 256
     },
     "crypto": {
       "ok": true,
-      "ms": 356
+      "ms": 350
     }
   },
   "unavailable": [],
