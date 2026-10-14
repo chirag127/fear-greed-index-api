@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T19:47:15.784Z",
+  "generated": "2026-10-14T22:45:48.909Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -257,7 +257,7 @@
       "points": 1536,
       "first": "2020-09-01",
       "last": "2026-10-14",
-      "lastValue": 32.3346,
+      "lastValue": 32.4203,
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
@@ -280,7 +280,7 @@
       "points": 1536,
       "first": "2020-09-01",
       "last": "2026-10-14",
-      "lastValue": 7717.66,
+      "lastValue": 7718.94,
       "zone": null
     },
     {
@@ -300,7 +300,7 @@
       "points": 1536,
       "first": "2020-09-01",
       "last": "2026-10-14",
-      "lastValue": 7530.768,
+      "lastValue": 7530.7782,
       "zone": null
     },
     {
@@ -320,7 +320,7 @@
       "points": 1536,
       "first": "2020-09-01",
       "last": "2026-10-14",
-      "lastValue": -8.3095,
+      "lastValue": -8.3222,
       "zone": null
     },
     {
@@ -340,7 +340,7 @@
       "points": 1536,
       "first": "2020-09-01",
       "last": "2026-10-14",
-      "lastValue": 239.2156,
+      "lastValue": 250.7052,
       "zone": null
     },
     {
@@ -360,7 +360,7 @@
       "points": 1536,
       "first": "2020-09-01",
       "last": "2026-10-14",
-      "lastValue": 0.7715,
+      "lastValue": 0.7701,
       "zone": null
     },
     {
@@ -420,7 +420,7 @@
       "points": 1536,
       "first": "2020-09-01",
       "last": "2026-10-14",
-      "lastValue": 1.1965,
+      "lastValue": 1.1994,
       "zone": null
     },
     {
@@ -440,7 +440,7 @@
       "points": 1536,
       "first": "2020-09-01",
       "last": "2026-10-14",
-      "lastValue": 2.7312,
+      "lastValue": 2.8335,
       "zone": null
     },
     {
