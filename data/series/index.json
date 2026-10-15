@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T12:12:48.200Z",
+  "generated": "2026-10-15T17:25:32.470Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -130,7 +130,7 @@
       "points": 21,
       "first": "2026-09-16",
       "last": "2026-10-15",
-      "lastValue": 39.51,
+      "lastValue": 39.5106,
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
@@ -257,7 +257,7 @@
       "points": 1537,
       "first": "2020-09-01",
       "last": "2026-10-15",
-      "lastValue": 30.1406,
+      "lastValue": 29.9215,
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
@@ -277,10 +277,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: S&P 500 Momentum. Raw indicator value (not a 0-100 score).",
-      "points": 1536,
+      "points": 1537,
       "first": "2020-09-01",
-      "last": "2026-10-14",
-      "lastValue": 7718.94,
+      "last": "2026-10-15",
+      "lastValue": 7728.99,
       "zone": null
     },
     {
@@ -297,10 +297,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: S&P 125-Day Momentum. Raw indicator value (not a 0-100 score).",
-      "points": 1536,
+      "points": 1537,
       "first": "2020-09-01",
-      "last": "2026-10-14",
-      "lastValue": 7530.7782,
+      "last": "2026-10-15",
+      "lastValue": 7535.6017,
       "zone": null
     },
     {
@@ -320,7 +320,7 @@
       "points": 1537,
       "first": "2020-09-01",
       "last": "2026-10-15",
-      "lastValue": -8.7642,
+      "lastValue": -8.3483,
       "zone": null
     },
     {
@@ -340,7 +340,7 @@
       "points": 1537,
       "first": "2020-09-01",
       "last": "2026-10-15",
-      "lastValue": 245.9295,
+      "lastValue": 277.0436,
       "zone": null
     },
     {
@@ -357,10 +357,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: Put/Call Options. Raw indicator value (not a 0-100 score).",
-      "points": 1536,
+      "points": 1537,
       "first": "2020-09-01",
-      "last": "2026-10-14",
-      "lastValue": 0.7701,
+      "last": "2026-10-15",
+      "lastValue": 0.766,
       "zone": null
     },
     {
@@ -380,7 +380,7 @@
       "points": 1537,
       "first": "2020-09-01",
       "last": "2026-10-15",
-      "lastValue": 17.45,
+      "lastValue": 16.81,
       "zone": null
     },
     {
@@ -400,7 +400,7 @@
       "points": 1537,
       "first": "2020-09-01",
       "last": "2026-10-15",
-      "lastValue": 15.5154,
+      "lastValue": 15.5026,
       "zone": null
     },
     {
@@ -420,7 +420,7 @@
       "points": 1537,
       "first": "2020-09-01",
       "last": "2026-10-15",
-      "lastValue": 1.1994,
+      "lastValue": 1.2183,
       "zone": null
     },
     {
@@ -437,10 +437,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: Safe Haven Demand. Raw indicator value (not a 0-100 score).",
-      "points": 1536,
+      "points": 1537,
       "first": "2020-09-01",
-      "last": "2026-10-14",
-      "lastValue": 2.8335,
+      "last": "2026-10-15",
+      "lastValue": 1.67,
       "zone": null
     },
     {
@@ -1677,10 +1677,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/fiidiiTradeReact",
       "description": "Foreign institutional net buy/sell in the cash market, in INR crore.",
-      "points": 20,
+      "points": 21,
       "first": "2026-09-16",
-      "last": "2026-10-14",
-      "lastValue": -1857.44,
+      "last": "2026-10-15",
+      "lastValue": -5285.37,
       "zone": null
     },
     {
@@ -1696,10 +1696,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/fiidiiTradeReact",
       "description": "Domestic institutional net buy/sell in the cash market, in INR crore.",
-      "points": 20,
+      "points": 21,
       "first": "2026-09-16",
-      "last": "2026-10-14",
-      "lastValue": 2670.44,
+      "last": "2026-10-15",
+      "lastValue": 3319.39,
       "zone": null
     },
     {
@@ -1716,10 +1716,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/fiidiiTradeReact",
       "description": "Running sum of FII net flows — the persistent-foreign-selling signal.",
-      "points": 20,
+      "points": 21,
       "first": "2026-09-16",
-      "last": "2026-10-14",
-      "lastValue": -86263.27,
+      "last": "2026-10-15",
+      "lastValue": -91548.64,
       "zone": null
     },
     {
@@ -1736,10 +1736,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/fiidiiTradeReact",
       "description": "Running sum of DII net flows. DIIs often absorb FII selling.",
-      "points": 20,
+      "points": 21,
       "first": "2026-09-16",
-      "last": "2026-10-14",
-      "lastValue": 96867.3,
+      "last": "2026-10-15",
+      "lastValue": 100186.69,
       "zone": null
     }
   ]
