@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T23:21:52.111Z",
+  "updated": "2026-10-16T01:54:30.014Z",
   "asOf": "2026-10-15",
   "headline": {
     "mmi": {
@@ -27,13 +27,13 @@
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
       "short": "Crypto F&G",
-      "value": 53,
-      "date": "2026-10-15",
+      "value": 63,
+      "date": "2026-10-16",
       "zone": {
-        "label": "Neutral",
-        "color": "#95a5a6"
+        "label": "Greed",
+        "color": "#27ae60"
       },
-      "previous": 62
+      "previous": 53
     },
     "india-vix": {
       "title": "India VIX",
@@ -68,7 +68,7 @@
   "cnn": {
     "value": 31.54,
     "rating": "fear",
-    "timestamp": "2026-10-15T23:06:04+00:00",
+    "timestamp": "2026-10-15T23:59:53+00:00",
     "previousClose": 32.33,
     "previous1Week": 39.8,
     "previous1Month": 27.97,
@@ -80,20 +80,20 @@
     "componentDepths": {
       "cnn-momentum-sp500": 1538,
       "cnn-momentum-sp125": 1538,
-      "cnn-price-strength": 1537,
-      "cnn-price-breadth": 1537,
-      "cnn-put-call": 1537,
+      "cnn-price-strength": 1538,
+      "cnn-price-breadth": 1538,
+      "cnn-put-call": 1538,
       "cnn-vix": 1538,
       "cnn-vix50": 1538,
-      "cnn-junk-bond": 1537,
-      "cnn-safe-haven": 1537
+      "cnn-junk-bond": 1538,
+      "cnn-safe-haven": 1538
     }
   },
   "crypto": {
-    "value": 53,
-    "classification": "Neutral",
-    "timestamp": "2026-10-15",
-    "historyDays": 3175
+    "value": 63,
+    "classification": "Greed",
+    "timestamp": "2026-10-16",
+    "historyDays": 3176
   },
   "nse": {
     "indices": {
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 321
+      "ms": 287
     },
     "tickertape": {
       "ok": true,
-      "ms": 208
+      "ms": 81
     },
     "nse": {
       "ok": true,
-      "ms": 730
+      "ms": 842
     },
     "cnn": {
       "ok": true,
-      "ms": 304
+      "ms": 158
     },
     "crypto": {
       "ok": true,
-      "ms": 236
+      "ms": 400
     }
   },
   "unavailable": [],
