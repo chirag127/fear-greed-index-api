@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-16T11:58:03.356Z",
-  "asOf": "2026-10-15",
+  "updated": "2026-10-16T15:58:24.151Z",
+  "asOf": "2026-10-16",
   "headline": {
     "mmi": {
       "title": "Tickertape Market Mood Index",
       "short": "MMI",
-      "value": 43.7025,
+      "value": 43.7024,
       "date": "2026-10-16",
       "zone": {
         "label": "Fear",
@@ -16,13 +16,13 @@
     "cnn-fng": {
       "title": "CNN Fear & Greed Index",
       "short": "CNN F&G",
-      "value": 32.0857,
+      "value": 27.8,
       "date": "2026-10-16",
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
       },
-      "previous": 32.0857
+      "previous": 30.3429
     },
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
@@ -66,9 +66,9 @@
     }
   },
   "cnn": {
-    "value": 32.09,
+    "value": 27.8,
     "rating": "fear",
-    "timestamp": "2026-10-16T11:42:31+00:00",
+    "timestamp": "2026-10-16T15:57:27+00:00",
     "previousClose": 31.54,
     "previous1Week": 46.49,
     "previous1Month": 27.31,
@@ -78,8 +78,8 @@
     "historyFrom": "2020-09-01",
     "historyTo": "2026-10-16",
     "componentDepths": {
-      "cnn-momentum-sp500": 1538,
-      "cnn-momentum-sp125": 1538,
+      "cnn-momentum-sp500": 1539,
+      "cnn-momentum-sp125": 1539,
       "cnn-price-strength": 1538,
       "cnn-price-breadth": 1538,
       "cnn-put-call": 1538,
@@ -216,21 +216,21 @@
       }
     },
     "flows": {
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "rows": [
         {
           "category": "DII",
-          "date": "2026-10-15",
-          "buy": 19438.65,
-          "sell": 16119.26,
-          "net": 3319.39
+          "date": "2026-10-16",
+          "buy": 17201.8,
+          "sell": 20863.08,
+          "net": -3661.28
         },
         {
           "category": "FII/FPI",
-          "date": "2026-10-15",
-          "buy": 12735.59,
-          "sell": 18020.96,
-          "net": -5285.37
+          "date": "2026-10-16",
+          "buy": 19951.59,
+          "sell": 18785.67,
+          "net": 1165.92
         }
       ]
     },
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 195
+      "ms": 334
     },
     "tickertape": {
       "ok": true,
-      "ms": 120
+      "ms": 126
     },
     "nse": {
       "ok": true,
-      "ms": 604
+      "ms": 212
     },
     "cnn": {
       "ok": true,
-      "ms": 177
+      "ms": 196
     },
     "crypto": {
       "ok": true,
-      "ms": 518
+      "ms": 239
     }
   },
   "unavailable": [],
