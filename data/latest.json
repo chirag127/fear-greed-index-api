@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T21:58:49.116Z",
+  "updated": "2026-10-18T23:53:59.466Z",
   "asOf": "2026-10-16",
   "headline": {
     "mmi": {
@@ -131,7 +131,7 @@
         "pb": 3.12,
         "dy": 1.3,
         "advances": 258,
-        "declines": 241,
+        "declines": 240,
         "yearHigh": 24144.2,
         "yearLow": 20385.65,
         "pctFromYearHigh": -7.76
@@ -196,7 +196,7 @@
         "pb": 3.71,
         "dy": 0.65,
         "advances": 45,
-        "declines": 54,
+        "declines": 53,
         "yearHigh": 20187.8,
         "yearLow": 14986,
         "pctFromYearHigh": -5.24
@@ -209,7 +209,7 @@
         "pb": 3.39,
         "dy": 0.76,
         "advances": 133,
-        "declines": 116,
+        "declines": 115,
         "yearHigh": 18551,
         "yearLow": 14143.45,
         "pctFromYearHigh": -4.92
@@ -251,10 +251,10 @@
       },
       "nifty500": {
         "advances": 258,
-        "declines": 241,
-        "unchanged": 2,
-        "net": 17,
-        "ratio": 0.517
+        "declines": 240,
+        "unchanged": 3,
+        "net": 18,
+        "ratio": 0.518
       },
       "nifty-next50": {
         "advances": 27,
@@ -286,17 +286,17 @@
       },
       "nifty-smallcap100": {
         "advances": 45,
-        "declines": 54,
-        "unchanged": 1,
-        "net": -9,
-        "ratio": 0.455
+        "declines": 53,
+        "unchanged": 2,
+        "net": -8,
+        "ratio": 0.459
       },
       "nifty-smallcap250": {
         "advances": 133,
-        "declines": 116,
-        "unchanged": 2,
-        "net": 17,
-        "ratio": 0.534
+        "declines": 115,
+        "unchanged": 3,
+        "net": 18,
+        "ratio": 0.536
       }
     },
     "vix": 14.08
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 261
+      "ms": 321
     },
     "tickertape": {
       "ok": true,
-      "ms": 133
+      "ms": 92
     },
     "nse": {
       "ok": true,
-      "ms": 747
+      "ms": 182
     },
     "cnn": {
       "ok": true,
-      "ms": 248
+      "ms": 251
     },
     "crypto": {
       "ok": true,
-      "ms": 259
+      "ms": 284
     }
   },
   "unavailable": [],
