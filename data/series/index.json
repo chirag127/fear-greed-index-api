@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T15:56:29.034Z",
+  "generated": "2026-10-19T20:48:04.333Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -257,10 +257,10 @@
       "points": 1539,
       "first": "2020-09-01",
       "last": "2026-10-19",
-      "lastValue": 27.8348,
+      "lastValue": 23.1071,
       "zone": {
-        "label": "Fear",
-        "color": "#e67e22"
+        "label": "Extreme Fear",
+        "color": "#c0392b"
       }
     },
     {
@@ -280,7 +280,7 @@
       "points": 1539,
       "first": "2020-09-01",
       "last": "2026-10-19",
-      "lastValue": 7725.51,
+      "lastValue": 7690.73,
       "zone": null
     },
     {
@@ -300,7 +300,7 @@
       "points": 1539,
       "first": "2020-09-01",
       "last": "2026-10-19",
-      "lastValue": 7545.4166,
+      "lastValue": 7545.1384,
       "zone": null
     },
     {
@@ -320,7 +320,7 @@
       "points": 1539,
       "first": "2020-09-01",
       "last": "2026-10-19",
-      "lastValue": -8.0992,
+      "lastValue": -8.2016,
       "zone": null
     },
     {
@@ -340,7 +340,7 @@
       "points": 1539,
       "first": "2020-09-01",
       "last": "2026-10-19",
-      "lastValue": 330.4729,
+      "lastValue": 322.0512,
       "zone": null
     },
     {
@@ -360,7 +360,7 @@
       "points": 1539,
       "first": "2020-09-01",
       "last": "2026-10-19",
-      "lastValue": 0.813,
+      "lastValue": 0.8305,
       "zone": null
     },
     {
@@ -380,7 +380,7 @@
       "points": 1539,
       "first": "2020-09-01",
       "last": "2026-10-19",
-      "lastValue": 17.52,
+      "lastValue": 18.44,
       "zone": null
     },
     {
@@ -400,7 +400,7 @@
       "points": 1539,
       "first": "2020-09-01",
       "last": "2026-10-19",
-      "lastValue": 15.6448,
+      "lastValue": 15.6632,
       "zone": null
     },
     {
@@ -420,7 +420,7 @@
       "points": 1539,
       "first": "2020-09-01",
       "last": "2026-10-19",
-      "lastValue": 1.2068,
+      "lastValue": 1.2083,
       "zone": null
     },
     {
@@ -440,7 +440,7 @@
       "points": 1539,
       "first": "2020-09-01",
       "last": "2026-10-19",
-      "lastValue": 0.7187,
+      "lastValue": 0.3209,
       "zone": null
     },
     {
