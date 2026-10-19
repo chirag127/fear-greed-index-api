@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T20:48:04.335Z",
+  "updated": "2026-10-19T23:59:45.211Z",
   "asOf": "2026-10-19",
   "headline": {
     "mmi": {
@@ -68,7 +68,7 @@
   "cnn": {
     "value": 23.11,
     "rating": "extreme fear",
-    "timestamp": "2026-10-19T20:30:36+00:00",
+    "timestamp": "2026-10-19T23:39:49+00:00",
     "previousClose": 17.94,
     "previous1Week": 46.34,
     "previous1Month": 30.43,
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 285
+      "ms": 262
     },
     "tickertape": {
       "ok": true,
-      "ms": 180
+      "ms": 179
     },
     "nse": {
       "ok": true,
-      "ms": 468
+      "ms": 138
     },
     "cnn": {
       "ok": true,
-      "ms": 267
+      "ms": 245
     },
     "crypto": {
       "ok": true,
-      "ms": 439
+      "ms": 279
     }
   },
   "unavailable": [],
