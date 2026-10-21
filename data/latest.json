@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T21:58:01.418Z",
+  "updated": "2026-10-21T00:20:40.615Z",
   "asOf": "2026-10-19",
   "headline": {
     "mmi": {
@@ -27,13 +27,13 @@
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
       "short": "Crypto F&G",
-      "value": 55,
-      "date": "2026-10-20",
+      "value": 63,
+      "date": "2026-10-21",
       "zone": {
         "label": "Greed",
         "color": "#27ae60"
       },
-      "previous": 59
+      "previous": 55
     },
     "india-vix": {
       "title": "India VIX",
@@ -68,7 +68,7 @@
   "cnn": {
     "value": 27.2,
     "rating": "fear",
-    "timestamp": "2026-10-20T21:40:42+00:00",
+    "timestamp": "2026-10-20T23:59:41+00:00",
     "previousClose": 23.11,
     "previous1Week": 44.11,
     "previous1Month": 30.43,
@@ -80,20 +80,20 @@
     "componentDepths": {
       "cnn-momentum-sp500": 1541,
       "cnn-momentum-sp125": 1541,
-      "cnn-price-strength": 1540,
-      "cnn-price-breadth": 1540,
-      "cnn-put-call": 1540,
+      "cnn-price-strength": 1541,
+      "cnn-price-breadth": 1541,
+      "cnn-put-call": 1541,
       "cnn-vix": 1541,
       "cnn-vix50": 1541,
-      "cnn-junk-bond": 1540,
-      "cnn-safe-haven": 1540
+      "cnn-junk-bond": 1541,
+      "cnn-safe-haven": 1541
     }
   },
   "crypto": {
-    "value": 55,
+    "value": 63,
     "classification": "Greed",
-    "timestamp": "2026-10-20",
-    "historyDays": 3180
+    "timestamp": "2026-10-21",
+    "historyDays": 3181
   },
   "nse": {
     "indices": {
@@ -130,7 +130,7 @@
         "pe": 21.5,
         "pb": 3.09,
         "dy": 1.3,
-        "advances": 83,
+        "advances": 84,
         "declines": 414,
         "yearHigh": 24144.2,
         "yearLow": 20385.65,
@@ -195,7 +195,7 @@
         "pe": 36.18,
         "pb": 3.67,
         "dy": 0.65,
-        "advances": 20,
+        "advances": 21,
         "declines": 79,
         "yearHigh": 20187.8,
         "yearLow": 14986,
@@ -208,7 +208,7 @@
         "pe": 33.26,
         "pb": 3.35,
         "dy": 0.76,
-        "advances": 41,
+        "advances": 42,
         "declines": 208,
         "yearHigh": 18551,
         "yearLow": 14143.45,
@@ -250,11 +250,11 @@
         "ratio": 0.192
       },
       "nifty500": {
-        "advances": 83,
+        "advances": 84,
         "declines": 414,
-        "unchanged": 4,
-        "net": -331,
-        "ratio": 0.167
+        "unchanged": 3,
+        "net": -330,
+        "ratio": 0.169
       },
       "nifty-next50": {
         "advances": 10,
@@ -285,18 +285,18 @@
         "ratio": 0.154
       },
       "nifty-smallcap100": {
-        "advances": 20,
+        "advances": 21,
         "declines": 79,
-        "unchanged": 1,
-        "net": -59,
-        "ratio": 0.202
+        "unchanged": 0,
+        "net": -58,
+        "ratio": 0.21
       },
       "nifty-smallcap250": {
-        "advances": 41,
+        "advances": 42,
         "declines": 208,
-        "unchanged": 2,
-        "net": -167,
-        "ratio": 0.165
+        "unchanged": 1,
+        "net": -166,
+        "ratio": 0.168
       }
     },
     "vix": 14.69
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 335
+      "ms": 310
     },
     "tickertape": {
       "ok": true,
-      "ms": 143
+      "ms": 179
     },
     "nse": {
       "ok": true,
-      "ms": 211
+      "ms": 494
     },
     "cnn": {
       "ok": true,
-      "ms": 277
+      "ms": 255
     },
     "crypto": {
       "ok": true,
-      "ms": 329
+      "ms": 270
     }
   },
   "unavailable": [],
