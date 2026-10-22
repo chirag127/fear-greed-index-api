@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-22T12:34:36.895Z",
+  "updated": "2026-10-22T17:42:15.599Z",
   "asOf": "2026-10-22",
   "headline": {
     "mmi": {
       "title": "Tickertape Market Mood Index",
       "short": "MMI",
-      "value": 35.4852,
+      "value": 28.1801,
       "date": "2026-10-22",
       "zone": {
         "label": "Fear",
@@ -16,13 +16,13 @@
     "cnn-fng": {
       "title": "CNN Fear & Greed Index",
       "short": "CNN F&G",
-      "value": 28.3165,
+      "value": 19.7033,
       "date": "2026-10-22",
       "zone": {
-        "label": "Fear",
-        "color": "#e67e22"
+        "label": "Extreme Fear",
+        "color": "#c0392b"
       },
-      "previous": 28.3165
+      "previous": 27.2264
     },
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
@@ -45,9 +45,9 @@
     }
   },
   "tickertape": {
-    "value": 35.49,
+    "value": 28.18,
     "date": "2026-10-22",
-    "indicator": 35.49,
+    "indicator": 28.18,
     "nifty": 22687.65,
     "lastDay": {
       "value": 46.39,
@@ -55,20 +55,20 @@
       "nifty": 22811.35
     },
     "lastWeek": {
-      "value": 36.23,
-      "date": "2026-10-14",
-      "nifty": 22622.7
+      "value": 39.51,
+      "date": "2026-10-15",
+      "nifty": 22997.35
     },
     "lastMonth": {
-      "value": 13.47,
-      "date": "2026-09-18",
-      "nifty": 23346.4
+      "value": 22.72,
+      "date": "2026-09-21",
+      "nifty": 23414.3
     }
   },
   "cnn": {
-    "value": 28.32,
-    "rating": "fear",
-    "timestamp": "2026-10-22T12:19:06+00:00",
+    "value": 19.7,
+    "rating": "extreme fear",
+    "timestamp": "2026-10-22T17:41:41+00:00",
     "previousClose": 31.37,
     "previous1Week": 30.34,
     "previous1Month": 35.03,
@@ -78,8 +78,8 @@
     "historyFrom": "2020-09-01",
     "historyTo": "2026-10-22",
     "componentDepths": {
-      "cnn-momentum-sp500": 1542,
-      "cnn-momentum-sp125": 1542,
+      "cnn-momentum-sp500": 1543,
+      "cnn-momentum-sp125": 1543,
       "cnn-price-strength": 1542,
       "cnn-price-breadth": 1542,
       "cnn-put-call": 1542,
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 236
+      "ms": 249
     },
     "tickertape": {
       "ok": true,
-      "ms": 76
+      "ms": 129
     },
     "nse": {
       "ok": true,
-      "ms": 113
+      "ms": 196
     },
     "cnn": {
       "ok": true,
-      "ms": 229
+      "ms": 258
     },
     "crypto": {
       "ok": true,
-      "ms": 350
+      "ms": 271
     }
   },
   "unavailable": [],
