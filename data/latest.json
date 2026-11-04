@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-04T10:02:00.918Z",
-  "asOf": "2026-11-03",
+  "updated": "2026-11-04T18:17:47.090Z",
+  "asOf": "2026-11-04",
   "headline": {
     "mmi": {
       "title": "Tickertape Market Mood Index",
       "short": "MMI",
-      "value": 69.0386,
+      "value": 69.1084,
       "date": "2026-11-04",
       "zone": {
         "label": "Greed",
@@ -16,13 +16,13 @@
     "cnn-fng": {
       "title": "CNN Fear & Greed Index",
       "short": "CNN F&G",
-      "value": 24.1143,
+      "value": 28.5429,
       "date": "2026-11-04",
       "zone": {
-        "label": "Extreme Fear",
-        "color": "#c0392b"
+        "label": "Fear",
+        "color": "#e67e22"
       },
-      "previous": 24.1143
+      "previous": 23.5429
     },
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
@@ -38,17 +38,17 @@
     "india-vix": {
       "title": "India VIX",
       "short": "VIX",
-      "value": 15.175,
+      "value": 15.1875,
       "date": "2026-11-04",
       "zone": null,
-      "previous": 15.18
+      "previous": 15.27
     }
   },
   "tickertape": {
-    "value": 69.04,
+    "value": 69.11,
     "date": "2026-11-04",
-    "indicator": 69.04,
-    "nifty": 23911.7,
+    "indicator": 69.11,
+    "nifty": 23960.6,
     "lastDay": {
       "value": 58.86,
       "date": "2026-11-03",
@@ -66,9 +66,9 @@
     }
   },
   "cnn": {
-    "value": 24.11,
-    "rating": "extreme fear",
-    "timestamp": "2026-11-04T09:46:31+00:00",
+    "value": 28.54,
+    "rating": "fear",
+    "timestamp": "2026-11-04T18:16:28+00:00",
     "previousClose": 19.09,
     "previous1Week": 34.4,
     "previous1Month": 38.2,
@@ -78,8 +78,8 @@
     "historyFrom": "2020-09-01",
     "historyTo": "2026-11-04",
     "componentDepths": {
-      "cnn-momentum-sp500": 1551,
-      "cnn-momentum-sp125": 1551,
+      "cnn-momentum-sp500": 1552,
+      "cnn-momentum-sp125": 1552,
       "cnn-price-strength": 1551,
       "cnn-price-breadth": 1551,
       "cnn-put-call": 1551,
@@ -101,9 +101,9 @@
         "name": "NIFTY 50",
         "level": 23960.6,
         "changePct": 0.63,
-        "pe": 19.71,
-        "pb": 2.92,
-        "dy": 1.46,
+        "pe": 19.77,
+        "pb": 2.94,
+        "dy": 1.45,
         "advances": 36,
         "declines": 14,
         "yearHigh": 26373.2,
@@ -112,11 +112,11 @@
       },
       "nifty100": {
         "name": "NIFTY 100",
-        "level": 24942.25,
+        "level": 24942.35,
         "changePct": 0.82,
-        "pe": 19.15,
-        "pb": 2.99,
-        "dy": 1.46,
+        "pe": 19.26,
+        "pb": 3.01,
+        "dy": 1.45,
         "advances": 78,
         "declines": 22,
         "yearHigh": 26975.15,
@@ -125,11 +125,11 @@
       },
       "nifty500": {
         "name": "NIFTY 500",
-        "level": 22770.8,
+        "level": 22769.2,
         "changePct": 1.11,
-        "pe": 21.31,
-        "pb": 3.16,
-        "dy": 1.29,
+        "pe": 21.51,
+        "pb": 3.19,
+        "dy": 1.28,
         "advances": 411,
         "declines": 88,
         "yearHigh": 24144.2,
@@ -138,11 +138,11 @@
       },
       "nifty-next50": {
         "name": "NIFTY NEXT 50",
-        "level": 70793.95,
+        "level": 70795,
         "changePct": 1.68,
-        "pe": 16.97,
-        "pb": 3.34,
-        "dy": 1.47,
+        "pe": 17.26,
+        "pb": 3.4,
+        "dy": 1.45,
         "advances": 42,
         "declines": 8,
         "yearHigh": 75000.4,
@@ -153,9 +153,9 @@
         "name": "NIFTY BANK",
         "level": 55913.6,
         "changePct": 0.67,
-        "pe": 12.35,
-        "pb": 1.67,
-        "dy": 1.13,
+        "pe": 12.36,
+        "pb": 1.68,
+        "dy": 1.12,
         "advances": 11,
         "declines": 3,
         "yearHigh": 61764.85,
@@ -164,73 +164,73 @@
       },
       "nifty-midcap100": {
         "name": "NIFTY MIDCAP 100",
-        "level": 59515.65,
-        "changePct": 1.57,
-        "pe": 26.47,
-        "pb": 3.73,
-        "dy": 0.93,
+        "level": 59505.5,
+        "changePct": 1.55,
+        "pe": 26.84,
+        "pb": 3.78,
+        "dy": 0.92,
         "advances": 88,
         "declines": 12,
         "yearHigh": 64450.9,
         "yearLow": 52032.85,
-        "pctFromYearHigh": -7.66
+        "pctFromYearHigh": -7.67
       },
       "nifty-midcap150": {
         "name": "NIFTY MIDCAP 150",
-        "level": 21869.25,
-        "changePct": 1.61,
-        "pe": 26.89,
-        "pb": 3.77,
-        "dy": 0.99,
+        "level": 21867.3,
+        "changePct": 1.6,
+        "pe": 27.29,
+        "pb": 3.83,
+        "dy": 0.98,
         "advances": 128,
         "declines": 22,
         "yearHigh": 23647.5,
         "yearLow": 19218,
-        "pctFromYearHigh": -7.52
+        "pctFromYearHigh": -7.53
       },
       "nifty-smallcap100": {
         "name": "NIFTY SMALLCAP 100",
-        "level": 19040.15,
-        "changePct": 2.08,
-        "pe": 33.42,
-        "pb": 3.62,
-        "dy": 0.66,
+        "level": 19026.4,
+        "changePct": 2,
+        "pe": 34.24,
+        "pb": 3.69,
+        "dy": 0.64,
         "advances": 85,
         "declines": 15,
         "yearHigh": 20187.8,
         "yearLow": 14986,
-        "pctFromYearHigh": -5.68
+        "pctFromYearHigh": -5.75
       },
       "nifty-smallcap250": {
         "name": "NIFTY SMALLCAP 250",
-        "level": 17406.8,
-        "changePct": 2.02,
-        "pe": 31.43,
-        "pb": 3.29,
-        "dy": 0.77,
+        "level": 17398.35,
+        "changePct": 1.97,
+        "pe": 32.11,
+        "pb": 3.35,
+        "dy": 0.76,
         "advances": 205,
         "declines": 44,
         "yearHigh": 18551,
         "yearLow": 14143.45,
-        "pctFromYearHigh": -6.17
+        "pctFromYearHigh": -6.21
       }
     },
     "flows": {
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "rows": [
         {
           "category": "DII",
-          "date": "2026-11-03",
-          "buy": 16723.91,
-          "sell": 20402.76,
-          "net": -3678.85
+          "date": "2026-11-04",
+          "buy": 16392.82,
+          "sell": 20105.05,
+          "net": -3712.23
         },
         {
           "category": "FII/FPI",
-          "date": "2026-11-03",
-          "buy": 20970.51,
-          "sell": 14133.7,
-          "net": 6836.81
+          "date": "2026-11-04",
+          "buy": 21607.38,
+          "sell": 14323.35,
+          "net": 7284.03
         }
       ]
     },
@@ -299,28 +299,28 @@
         "ratio": 0.823
       }
     },
-    "vix": 15.18
+    "vix": 15.27
   },
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 343
+      "ms": 389
     },
     "tickertape": {
       "ok": true,
-      "ms": 140
+      "ms": 139
     },
     "nse": {
       "ok": true,
-      "ms": 427
+      "ms": 580
     },
     "cnn": {
       "ok": true,
-      "ms": 283
+      "ms": 178
     },
     "crypto": {
       "ok": true,
-      "ms": 321
+      "ms": 217
     }
   },
   "unavailable": [],
