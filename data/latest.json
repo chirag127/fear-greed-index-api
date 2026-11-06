@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T20:51:34.157Z",
+  "updated": "2026-11-06T01:13:41.146Z",
   "asOf": "2026-11-05",
   "headline": {
     "mmi": {
@@ -16,7 +16,7 @@
     "cnn-fng": {
       "title": "CNN Fear & Greed Index",
       "short": "CNN F&G",
-      "value": 20.1796,
+      "value": 19.8776,
       "date": "2026-11-05",
       "zone": {
         "label": "Extreme Fear",
@@ -27,21 +27,21 @@
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
       "short": "Crypto F&G",
-      "value": 50,
-      "date": "2026-11-05",
+      "value": 28,
+      "date": "2026-11-06",
       "zone": {
-        "label": "Neutral",
-        "color": "#95a5a6"
+        "label": "Fear",
+        "color": "#e67e22"
       },
-      "previous": 34
+      "previous": 50
     },
     "india-vix": {
       "title": "India VIX",
       "short": "VIX",
-      "value": 15.58,
+      "value": 15.62,
       "date": "2026-11-05",
       "zone": null,
-      "previous": 15.62
+      "previous": 15.19
     }
   },
   "tickertape": {
@@ -66,9 +66,9 @@
     }
   },
   "cnn": {
-    "value": 20.18,
+    "value": 19.88,
     "rating": "extreme fear",
-    "timestamp": "2026-11-05T20:50:53+00:00",
+    "timestamp": "2026-11-05T23:59:56+00:00",
     "previousClose": 27.29,
     "previous1Week": 30.77,
     "previous1Month": 43.09,
@@ -80,20 +80,20 @@
     "componentDepths": {
       "cnn-momentum-sp500": 1553,
       "cnn-momentum-sp125": 1553,
-      "cnn-price-strength": 1552,
-      "cnn-price-breadth": 1552,
-      "cnn-put-call": 1552,
+      "cnn-price-strength": 1553,
+      "cnn-price-breadth": 1553,
+      "cnn-put-call": 1553,
       "cnn-vix": 1553,
       "cnn-vix50": 1553,
-      "cnn-junk-bond": 1552,
-      "cnn-safe-haven": 1552
+      "cnn-junk-bond": 1553,
+      "cnn-safe-haven": 1553
     }
   },
   "crypto": {
-    "value": 50,
-    "classification": "Neutral",
-    "timestamp": "2026-11-05",
-    "historyDays": 3196
+    "value": 28,
+    "classification": "Fear",
+    "timestamp": "2026-11-06",
+    "historyDays": 3197
   },
   "nse": {
     "indices": {
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 306
+      "ms": 335
     },
     "tickertape": {
       "ok": true,
-      "ms": 145
+      "ms": 200
     },
     "nse": {
       "ok": true,
-      "ms": 895
+      "ms": 276
     },
     "cnn": {
       "ok": true,
-      "ms": 387
+      "ms": 313
     },
     "crypto": {
       "ok": true,
-      "ms": 350
+      "ms": 231
     }
   },
   "unavailable": [],
