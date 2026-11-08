@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T23:09:51.879Z",
+  "updated": "2026-11-08T02:56:33.753Z",
   "asOf": "2026-11-06",
   "headline": {
     "mmi": {
@@ -27,13 +27,13 @@
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
       "short": "Crypto F&G",
-      "value": 25,
-      "date": "2026-11-07",
+      "value": 28,
+      "date": "2026-11-08",
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
       },
-      "previous": 28
+      "previous": 25
     },
     "india-vix": {
       "title": "India VIX",
@@ -90,10 +90,10 @@
     }
   },
   "crypto": {
-    "value": 25,
-    "classification": "Extreme Fear",
-    "timestamp": "2026-11-07",
-    "historyDays": 3198
+    "value": 28,
+    "classification": "Fear",
+    "timestamp": "2026-11-08",
+    "historyDays": 3199
   },
   "nse": {
     "indices": {
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 227
+      "ms": 222
     },
     "tickertape": {
       "ok": true,
-      "ms": 173
+      "ms": 63
     },
     "nse": {
       "ok": true,
-      "ms": 151
+      "ms": 593
     },
     "cnn": {
       "ok": true,
-      "ms": 214
+      "ms": 88
     },
     "crypto": {
       "ok": true,
-      "ms": 242
+      "ms": 330
     }
   },
   "unavailable": [],
