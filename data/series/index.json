@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T00:55:01.217Z",
+  "generated": "2026-11-10T07:50:45.251Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -216,7 +216,7 @@
       "points": 2504,
       "first": "2016-09-16",
       "last": "2026-11-09",
-      "lastValue": 32468.9004,
+      "lastValue": 32468.9492,
       "zone": null
     },
     {
@@ -254,10 +254,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN US equity fear/greed composite, equal-weight across seven indicators.",
-      "points": 1554,
+      "points": 1555,
       "first": "2020-09-01",
-      "last": "2026-11-09",
-      "lastValue": 31.7143,
+      "last": "2026-11-10",
+      "lastValue": 31.6857,
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
@@ -417,9 +417,9 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: Junk Bond Demand. Raw indicator value (not a 0-100 score).",
-      "points": 1554,
+      "points": 1555,
       "first": "2020-09-01",
-      "last": "2026-11-09",
+      "last": "2026-11-10",
       "lastValue": 1.2302,
       "zone": null
     },
