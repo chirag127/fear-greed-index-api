@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T17:53:24.510Z",
+  "updated": "2026-11-10T00:55:01.219Z",
   "asOf": "2026-11-09",
   "headline": {
     "mmi": {
@@ -27,18 +27,18 @@
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
       "short": "Crypto F&G",
-      "value": 29,
-      "date": "2026-11-09",
+      "value": 32,
+      "date": "2026-11-10",
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
       },
-      "previous": 28
+      "previous": 29
     },
     "india-vix": {
       "title": "India VIX",
       "short": "VIX",
-      "value": 17.42,
+      "value": 17.36,
       "date": "2026-11-09",
       "zone": null,
       "previous": 17.36
@@ -68,7 +68,7 @@
   "cnn": {
     "value": 31.71,
     "rating": "fear",
-    "timestamp": "2026-11-09T17:52:42+00:00",
+    "timestamp": "2026-11-09T23:59:52+00:00",
     "previousClose": 22.08,
     "previous1Week": 19.39,
     "previous1Month": 43.51,
@@ -80,20 +80,20 @@
     "componentDepths": {
       "cnn-momentum-sp500": 1555,
       "cnn-momentum-sp125": 1555,
-      "cnn-price-strength": 1554,
-      "cnn-price-breadth": 1554,
-      "cnn-put-call": 1554,
+      "cnn-price-strength": 1555,
+      "cnn-price-breadth": 1555,
+      "cnn-put-call": 1555,
       "cnn-vix": 1555,
       "cnn-vix50": 1555,
-      "cnn-junk-bond": 1554,
-      "cnn-safe-haven": 1554
+      "cnn-junk-bond": 1555,
+      "cnn-safe-haven": 1555
     }
   },
   "crypto": {
-    "value": 29,
+    "value": 32,
     "classification": "Fear",
-    "timestamp": "2026-11-09",
-    "historyDays": 3200
+    "timestamp": "2026-11-10",
+    "historyDays": 3201
   },
   "nse": {
     "indices": {
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 400
+      "ms": 312
     },
     "tickertape": {
       "ok": true,
-      "ms": 70
+      "ms": 127
     },
     "nse": {
       "ok": true,
-      "ms": 614
+      "ms": 496
     },
     "cnn": {
       "ok": true,
-      "ms": 132
+      "ms": 407
     },
     "crypto": {
       "ok": true,
-      "ms": 372
+      "ms": 271
     }
   },
   "unavailable": [],
