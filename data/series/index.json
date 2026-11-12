@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T23:10:06.078Z",
+  "generated": "2026-11-12T04:36:03.709Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -127,10 +127,10 @@
       "source": "tickertape.in",
       "sourceUrl": "https://www.tickertape.in/market-mood-index",
       "description": "India 0-100 fear/greed composite (price, volatility, breadth, flows, valuations).",
-      "points": 39,
+      "points": 40,
       "first": "2026-09-16",
-      "last": "2026-11-11",
-      "lastValue": 77.7022,
+      "last": "2026-11-12",
+      "lastValue": 82.3176,
       "zone": {
         "label": "Extreme Greed",
         "color": "#16a085"
@@ -150,10 +150,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Implied 30-day volatility of Nifty options. Spikes mark panic; collapses mark complacency.",
-      "points": 2489,
+      "points": 2490,
       "first": "2016-09-16",
-      "last": "2026-11-11",
-      "lastValue": 17.58,
+      "last": "2026-11-12",
+      "lastValue": 17.1675,
       "zone": null
     },
     {
@@ -171,10 +171,10 @@
       "source": "alternative.me",
       "sourceUrl": "https://alternative.me/crypto/fear-and-greed-index/",
       "description": "alternative.me crypto sentiment composite. A fast, 24/7 risk-appetite proxy.",
-      "points": 3202,
+      "points": 3203,
       "first": "2018-02-01",
-      "last": "2026-11-11",
-      "lastValue": 29,
+      "last": "2026-11-12",
+      "lastValue": 28,
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
@@ -193,10 +193,10 @@
       "source": "finance.yahoo.com",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EBSESN/",
       "description": "BSE Sensex close, 10 years of daily history. Included for comparison against Nifty 50.",
-      "points": 2501,
+      "points": 2502,
       "first": "2016-09-16",
-      "last": "2026-11-11",
-      "lastValue": 81879.3984,
+      "last": "2026-11-12",
+      "lastValue": 82180.4219,
       "zone": null
     },
     {
@@ -213,10 +213,10 @@
       "source": "finance.yahoo.com",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXIT/",
       "description": "NIFTY IT index close, 10 years of daily history. A proxy for IT-sector risk appetite.",
-      "points": 2505,
+      "points": 2506,
       "first": "2016-09-16",
-      "last": "2026-11-11",
-      "lastValue": 32295.5996,
+      "last": "2026-11-12",
+      "lastValue": 32197.9492,
       "zone": null
     },
     {
@@ -233,10 +233,10 @@
       "source": "tickertape.in",
       "sourceUrl": "https://www.tickertape.in/market-mood-index",
       "description": "Nifty level from Tickertape's own MMI snapshot, so the index the MMI was computed against lines up exactly with the score.",
-      "points": 39,
+      "points": 40,
       "first": "2026-09-16",
-      "last": "2026-11-11",
-      "lastValue": 25255.05,
+      "last": "2026-11-12",
+      "lastValue": 25372.65,
       "zone": null
     },
     {
@@ -515,10 +515,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY 50.",
-      "points": 2517,
+      "points": 2518,
       "first": "2016-09-01",
-      "last": "2026-11-11",
-      "lastValue": 25255.05,
+      "last": "2026-11-12",
+      "lastValue": 25368.4492,
       "zone": null
     },
     {
@@ -593,10 +593,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY 100.",
-      "points": 2516,
+      "points": 2517,
       "first": "2016-09-01",
-      "last": "2026-11-11",
-      "lastValue": 26216.8,
+      "last": "2026-11-12",
+      "lastValue": 26340.9004,
       "zone": null
     },
     {
@@ -671,10 +671,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY 500.",
-      "points": 2516,
+      "points": 2517,
       "first": "2016-09-01",
-      "last": "2026-11-11",
-      "lastValue": 23779.3,
+      "last": "2026-11-12",
+      "lastValue": 23929.0996,
       "zone": null
     },
     {
@@ -752,7 +752,7 @@
       "points": 2516,
       "first": "2016-09-01",
       "last": "2026-11-11",
-      "lastValue": 73486.2,
+      "lastValue": 73921.25,
       "zone": null
     },
     {
@@ -827,10 +827,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY BANK.",
-      "points": 2516,
+      "points": 2517,
       "first": "2016-09-01",
-      "last": "2026-11-11",
-      "lastValue": 60792.4,
+      "last": "2026-11-12",
+      "lastValue": 61369.8984,
       "zone": null
     },
     {
@@ -908,7 +908,7 @@
       "points": 2127,
       "first": "2018-04-02",
       "last": "2026-11-11",
-      "lastValue": 61519.1,
+      "lastValue": 62114.25,
       "zone": null
     },
     {
@@ -986,7 +986,7 @@
       "points": 2516,
       "first": "2016-09-01",
       "last": "2026-11-11",
-      "lastValue": 22597.95,
+      "lastValue": 22789.4,
       "zone": null
     },
     {
@@ -1064,7 +1064,7 @@
       "points": 2127,
       "first": "2018-04-02",
       "last": "2026-11-11",
-      "lastValue": 19489.35,
+      "lastValue": 19766.7,
       "zone": null
     },
     {
@@ -1142,7 +1142,7 @@
       "points": 2516,
       "first": "2016-09-01",
       "last": "2026-11-11",
-      "lastValue": 17798.15,
+      "lastValue": 18012.2,
       "zone": null
     },
     {
@@ -1329,7 +1329,7 @@
       "points": 39,
       "first": "2026-09-16",
       "last": "2026-11-11",
-      "lastValue": 24,
+      "lastValue": 10,
       "zone": null
     },
     {
@@ -1349,7 +1349,7 @@
       "points": 39,
       "first": "2026-09-16",
       "last": "2026-11-11",
-      "lastValue": 0.74,
+      "lastValue": 0.6,
       "zone": null
     },
     {
@@ -1368,7 +1368,7 @@
       "points": 39,
       "first": "2026-09-16",
       "last": "2026-11-11",
-      "lastValue": 45,
+      "lastValue": 36,
       "zone": null
     },
     {
@@ -1388,7 +1388,7 @@
       "points": 39,
       "first": "2026-09-16",
       "last": "2026-11-11",
-      "lastValue": 0.72,
+      "lastValue": 0.68,
       "zone": null
     },
     {
@@ -1407,7 +1407,7 @@
       "points": 39,
       "first": "2026-09-16",
       "last": "2026-11-11",
-      "lastValue": 215,
+      "lastValue": 290,
       "zone": null
     },
     {
@@ -1427,7 +1427,7 @@
       "points": 39,
       "first": "2026-09-16",
       "last": "2026-11-11",
-      "lastValue": 0.7126,
+      "lastValue": 0.7864,
       "zone": null
     },
     {
@@ -1446,7 +1446,7 @@
       "points": 39,
       "first": "2026-09-16",
       "last": "2026-11-11",
-      "lastValue": 21,
+      "lastValue": 26,
       "zone": null
     },
     {
@@ -1466,7 +1466,7 @@
       "points": 39,
       "first": "2026-09-16",
       "last": "2026-11-11",
-      "lastValue": 0.7,
+      "lastValue": 0.76,
       "zone": null
     },
     {
@@ -1524,7 +1524,7 @@
       "points": 39,
       "first": "2026-09-16",
       "last": "2026-11-11",
-      "lastValue": 36,
+      "lastValue": 62,
       "zone": null
     },
     {
@@ -1544,7 +1544,7 @@
       "points": 39,
       "first": "2026-09-16",
       "last": "2026-11-11",
-      "lastValue": 0.68,
+      "lastValue": 0.81,
       "zone": null
     },
     {
@@ -1563,7 +1563,7 @@
       "points": 39,
       "first": "2026-09-16",
       "last": "2026-11-11",
-      "lastValue": 52,
+      "lastValue": 82,
       "zone": null
     },
     {
@@ -1583,7 +1583,7 @@
       "points": 39,
       "first": "2026-09-16",
       "last": "2026-11-11",
-      "lastValue": 0.6733,
+      "lastValue": 0.7733,
       "zone": null
     },
     {
@@ -1602,7 +1602,7 @@
       "points": 39,
       "first": "2026-09-16",
       "last": "2026-11-11",
-      "lastValue": 50,
+      "lastValue": 65,
       "zone": null
     },
     {
@@ -1622,7 +1622,7 @@
       "points": 39,
       "first": "2026-09-16",
       "last": "2026-11-11",
-      "lastValue": 0.75,
+      "lastValue": 0.82,
       "zone": null
     },
     {
@@ -1641,7 +1641,7 @@
       "points": 39,
       "first": "2026-09-16",
       "last": "2026-11-11",
-      "lastValue": 118,
+      "lastValue": 172,
       "zone": null
     },
     {
@@ -1661,7 +1661,7 @@
       "points": 39,
       "first": "2026-09-16",
       "last": "2026-11-11",
-      "lastValue": 0.7331,
+      "lastValue": 0.8367,
       "zone": null
     },
     {
