@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-12T13:22:23.997Z",
+  "updated": "2026-11-12T21:11:18.210Z",
   "asOf": "2026-11-12",
   "headline": {
     "mmi": {
       "title": "Tickertape Market Mood Index",
       "short": "MMI",
-      "value": 82.3798,
+      "value": 82.3797,
       "date": "2026-11-12",
       "zone": {
         "label": "Extreme Greed",
@@ -16,13 +16,13 @@
     "cnn-fng": {
       "title": "CNN Fear & Greed Index",
       "short": "CNN F&G",
-      "value": 37.3714,
+      "value": 40.1714,
       "date": "2026-11-12",
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
       },
-      "previous": 37.2857
+      "previous": 35.9429
     },
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
@@ -38,10 +38,10 @@
     "india-vix": {
       "title": "India VIX",
       "short": "VIX",
-      "value": 16.6175,
+      "value": 16.61,
       "date": "2026-11-12",
       "zone": null,
-      "previous": 16.61
+      "previous": 17.56
     }
   },
   "tickertape": {
@@ -66,9 +66,9 @@
     }
   },
   "cnn": {
-    "value": 37.37,
+    "value": 40.17,
     "rating": "fear",
-    "timestamp": "2026-11-12T13:04:02+00:00",
+    "timestamp": "2026-11-12T21:00:45+00:00",
     "previousClose": 36.97,
     "previous1Week": 19.99,
     "previous1Month": 45.23,
@@ -78,8 +78,8 @@
     "historyFrom": "2020-09-01",
     "historyTo": "2026-11-12",
     "componentDepths": {
-      "cnn-momentum-sp500": 1557,
-      "cnn-momentum-sp125": 1557,
+      "cnn-momentum-sp500": 1558,
+      "cnn-momentum-sp125": 1558,
       "cnn-price-strength": 1557,
       "cnn-price-breadth": 1557,
       "cnn-put-call": 1557,
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 320
+      "ms": 244
     },
     "tickertape": {
       "ok": true,
-      "ms": 118
+      "ms": 95
     },
     "nse": {
       "ok": true,
-      "ms": 653
+      "ms": 753
     },
     "cnn": {
       "ok": true,
-      "ms": 181
+      "ms": 203
     },
     "crypto": {
       "ok": true,
-      "ms": 359
+      "ms": 169
     }
   },
   "unavailable": [],
