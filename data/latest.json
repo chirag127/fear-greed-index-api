@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T17:34:52.264Z",
+  "updated": "2026-11-17T01:11:46.336Z",
   "asOf": "2026-11-16",
   "headline": {
     "mmi": {
@@ -16,7 +16,7 @@
     "cnn-fng": {
       "title": "CNN Fear & Greed Index",
       "short": "CNN F&G",
-      "value": 34.9429,
+      "value": 31.019,
       "date": "2026-11-16",
       "zone": {
         "label": "Fear",
@@ -27,8 +27,8 @@
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
       "short": "Crypto F&G",
-      "value": 10,
-      "date": "2026-11-16",
+      "value": 12,
+      "date": "2026-11-17",
       "zone": {
         "label": "Extreme Fear",
         "color": "#c0392b"
@@ -66,9 +66,9 @@
     }
   },
   "cnn": {
-    "value": 34.94,
+    "value": 31.02,
     "rating": "fear",
-    "timestamp": "2026-11-16T17:33:58+00:00",
+    "timestamp": "2026-11-16T23:59:54+00:00",
     "previousClose": 38.6,
     "previous1Week": 31.51,
     "previous1Month": 18.21,
@@ -80,20 +80,20 @@
     "componentDepths": {
       "cnn-momentum-sp500": 1560,
       "cnn-momentum-sp125": 1560,
-      "cnn-price-strength": 1559,
-      "cnn-price-breadth": 1559,
-      "cnn-put-call": 1559,
+      "cnn-price-strength": 1560,
+      "cnn-price-breadth": 1560,
+      "cnn-put-call": 1560,
       "cnn-vix": 1560,
       "cnn-vix50": 1560,
-      "cnn-junk-bond": 1559,
-      "cnn-safe-haven": 1559
+      "cnn-junk-bond": 1560,
+      "cnn-safe-haven": 1560
     }
   },
   "crypto": {
-    "value": 10,
+    "value": 12,
     "classification": "Extreme Fear",
-    "timestamp": "2026-11-16",
-    "historyDays": 3207
+    "timestamp": "2026-11-17",
+    "historyDays": 3208
   },
   "nse": {
     "indices": {
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 303
+      "ms": 266
     },
     "tickertape": {
       "ok": true,
-      "ms": 76
+      "ms": 71
     },
     "nse": {
       "ok": true,
-      "ms": 221
+      "ms": 476
     },
     "cnn": {
       "ok": true,
-      "ms": 184
+      "ms": 212
     },
     "crypto": {
       "ok": true,
-      "ms": 1398
+      "ms": 176
     }
   },
   "unavailable": [],
