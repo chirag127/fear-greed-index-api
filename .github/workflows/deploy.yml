@@ -1,7 +1,7 @@
 name: deploy
 
-# Path D â€” bespoke Stripe/Linear-style hero + live data preview + README content.
-# Uses oriz-co/oriz-api-docs-template as the build template.
+# Self-contained build: data/latest.json -> README block + static site.
+# GitHub Pages only; no template repo, no Cloudflare target.
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
     paths:
       - "README.md"
       - "data/**"
-      - "CNAME"
+      - "scripts/**"
       - ".github/workflows/deploy.yml"
   workflow_dispatch:
 
@@ -25,41 +25,27 @@ concurrency:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Checkout host API repo
-        uses: actions/checkout@v7
-        with:
-          path: host
+      - uses: actions/checkout@v4
 
-      - name: Checkout docs template
-        uses: actions/checkout@v7
-        with:
-          repository: oriz-co/oriz-api-docs-template
-          path: template
-
-      - uses: pnpm/action-setup@v6
-        with:
-          version: 11.8.0
-
-      - uses: actions/setup-node@v7
+      - uses: actions/setup-node@v4
         with:
           node-version: "22"
 
-      - name: Allow pnpm lifecycle scripts (pnpm 11 security gate)
-        run: pnpm config set dangerouslyAllowAllBuilds true --location global
-
       - name: Regenerate README from data
-        working-directory: host
         run: node scripts/build-readme.mjs
 
-      - name: Build site from README + data/
-        run: node template/bootstrap.mjs --src="${{ github.workspace }}/host" --dest="${{ github.workspace }}/dist"
+      - name: Build static site
+        run: node scripts/build-site.mjs
 
-      - uses: actions/configure-pages@v6
+      - uses: actions/configure-pages@v5
 
-      - uses: actions/upload-pages-artifact@v5
+      - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: _site
 
       - id: deployment
-        uses: actions/deploy-pages@v5
+        uses: actions/deploy-pages@v4

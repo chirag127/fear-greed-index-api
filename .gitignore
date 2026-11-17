@@ -14,3 +14,5 @@ dist/
 # Raw NSE archive downloads cached by scripts/backfill-nse.mjs. ~40MB of CSV that
 # is fully reproducible from the archive; never commit it.
 .cache/
+
+_site/
