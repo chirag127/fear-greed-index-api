@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T11:35:01.072Z",
+  "generated": "2026-11-17T11:44:14.151Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -257,7 +257,7 @@
       "points": 1560,
       "first": "2020-09-01",
       "last": "2026-11-17",
-      "lastValue": 29.6845,
+      "lastValue": 29.9781,
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
@@ -380,7 +380,7 @@
       "points": 1560,
       "first": "2020-09-01",
       "last": "2026-11-17",
-      "lastValue": 23.32,
+      "lastValue": 23.22,
       "zone": null
     },
     {
@@ -400,7 +400,7 @@
       "points": 1560,
       "first": "2020-09-01",
       "last": "2026-11-17",
-      "lastValue": 17.6174,
+      "lastValue": 17.6154,
       "zone": null
     },
     {
