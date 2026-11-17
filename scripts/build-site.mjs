@@ -8,6 +8,7 @@
 import { readFileSync, writeFileSync, mkdirSync, cpSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { analyticsSnippet } from './lib/analytics.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const out = join(root, '_site');
@@ -86,7 +87,7 @@ pre{background:#0a1120;border:1px solid var(--line);border-radius:12px;padding:1
 .links{display:flex;gap:18px;flex-wrap:wrap;margin-top:14px;font-size:13px}
 .links a{color:#38bdf8;text-decoration:none}.links a:hover{text-decoration:underline}
 footer{border-top:1px solid var(--line);margin-top:40px;padding:20px 0 44px;color:var(--muted);font-size:12.5px}
-</style></head><body><div class="wrap">
+</style>${analyticsSnippet()}</head><body><div class="wrap">
 <div class="brand">FEAR<span>&amp;</span>GREED<span class="tag">Sentiment API</span></div>
 <header><h1>Market sentiment, <em>four sources</em>, one JSON.</h1>
 <p class="sub">Tickertape Market Mood Index, CNN Fear &amp; Greed, Crypto Fear &amp; Greed and India VIX —
