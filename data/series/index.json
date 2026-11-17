@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T09:49:32.965Z",
+  "generated": "2026-11-17T11:35:01.072Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -130,7 +130,7 @@
       "points": 43,
       "first": "2026-09-16",
       "last": "2026-11-17",
-      "lastValue": 77.4345,
+      "lastValue": 76.5894,
       "zone": {
         "label": "Extreme Greed",
         "color": "#16a085"
@@ -153,7 +153,7 @@
       "points": 2493,
       "first": "2016-09-16",
       "last": "2026-11-17",
-      "lastValue": 15.5075,
+      "lastValue": 15.52,
       "zone": null
     },
     {
@@ -196,7 +196,7 @@
       "points": 2505,
       "first": "2016-09-16",
       "last": "2026-11-17",
-      "lastValue": 82568.6719,
+      "lastValue": 82532.1875,
       "zone": null
     },
     {
@@ -216,7 +216,7 @@
       "points": 2509,
       "first": "2016-09-16",
       "last": "2026-11-17",
-      "lastValue": 31666.9004,
+      "lastValue": 31654.0996,
       "zone": null
     },
     {
@@ -236,7 +236,7 @@
       "points": 43,
       "first": "2026-09-16",
       "last": "2026-11-17",
-      "lastValue": 25413,
+      "lastValue": 25387.4,
       "zone": null
     },
     {
@@ -257,7 +257,7 @@
       "points": 1560,
       "first": "2020-09-01",
       "last": "2026-11-17",
-      "lastValue": 28.9996,
+      "lastValue": 29.6845,
       "zone": {
         "label": "Fear",
         "color": "#e67e22"
@@ -380,7 +380,7 @@
       "points": 1560,
       "first": "2020-09-01",
       "last": "2026-11-17",
-      "lastValue": 24.15,
+      "lastValue": 23.32,
       "zone": null
     },
     {
@@ -400,7 +400,7 @@
       "points": 1560,
       "first": "2020-09-01",
       "last": "2026-11-17",
-      "lastValue": 17.634,
+      "lastValue": 17.6174,
       "zone": null
     },
     {
@@ -518,7 +518,7 @@
       "points": 2521,
       "first": "2016-09-01",
       "last": "2026-11-17",
-      "lastValue": 25413,
+      "lastValue": 25387.4004,
       "zone": null
     },
     {
@@ -596,7 +596,7 @@
       "points": 2520,
       "first": "2016-09-01",
       "last": "2026-11-17",
-      "lastValue": 26299.0508,
+      "lastValue": 26278.25,
       "zone": null
     },
     {
@@ -674,7 +674,7 @@
       "points": 2520,
       "first": "2016-09-01",
       "last": "2026-11-17",
-      "lastValue": 23835.3496,
+      "lastValue": 23822.3008,
       "zone": null
     },
     {
@@ -752,7 +752,7 @@
       "points": 2519,
       "first": "2016-09-01",
       "last": "2026-11-16",
-      "lastValue": 72677.45,
+      "lastValue": 72693,
       "zone": null
     },
     {
@@ -830,7 +830,7 @@
       "points": 2520,
       "first": "2016-09-01",
       "last": "2026-11-17",
-      "lastValue": 62322.8516,
+      "lastValue": 62273.25,
       "zone": null
     },
     {
@@ -908,7 +908,7 @@
       "points": 2130,
       "first": "2018-04-02",
       "last": "2026-11-16",
-      "lastValue": 61727.9,
+      "lastValue": 61730,
       "zone": null
     },
     {
@@ -986,7 +986,7 @@
       "points": 2519,
       "first": "2016-09-01",
       "last": "2026-11-16",
-      "lastValue": 22649.35,
+      "lastValue": 22648.7,
       "zone": null
     },
     {
@@ -1064,7 +1064,7 @@
       "points": 2130,
       "first": "2018-04-02",
       "last": "2026-11-16",
-      "lastValue": 19404.9,
+      "lastValue": 19398.7,
       "zone": null
     },
     {
@@ -1142,7 +1142,7 @@
       "points": 2519,
       "first": "2016-09-01",
       "last": "2026-11-16",
-      "lastValue": 17756.9,
+      "lastValue": 17754.85,
       "zone": null
     },
     {
@@ -1368,7 +1368,7 @@
       "points": 42,
       "first": "2026-09-16",
       "last": "2026-11-16",
-      "lastValue": 13,
+      "lastValue": 9,
       "zone": null
     },
     {
@@ -1388,7 +1388,7 @@
       "points": 42,
       "first": "2026-09-16",
       "last": "2026-11-16",
-      "lastValue": 0.56,
+      "lastValue": 0.54,
       "zone": null
     },
     {
@@ -1407,7 +1407,7 @@
       "points": 42,
       "first": "2026-09-16",
       "last": "2026-11-16",
-      "lastValue": 24,
+      "lastValue": 15,
       "zone": null
     },
     {
@@ -1427,7 +1427,7 @@
       "points": 42,
       "first": "2026-09-16",
       "last": "2026-11-16",
-      "lastValue": 0.519,
+      "lastValue": 0.513,
       "zone": null
     },
     {
@@ -1446,7 +1446,7 @@
       "points": 42,
       "first": "2026-09-16",
       "last": "2026-11-16",
-      "lastValue": 9,
+      "lastValue": 5,
       "zone": null
     },
     {
@@ -1466,7 +1466,7 @@
       "points": 42,
       "first": "2026-09-16",
       "last": "2026-11-16",
-      "lastValue": 0.58,
+      "lastValue": 0.54,
       "zone": null
     },
     {
@@ -1524,7 +1524,7 @@
       "points": 42,
       "first": "2026-09-16",
       "last": "2026-11-16",
-      "lastValue": 11,
+      "lastValue": 8,
       "zone": null
     },
     {
@@ -1544,7 +1544,7 @@
       "points": 42,
       "first": "2026-09-16",
       "last": "2026-11-16",
-      "lastValue": 0.55,
+      "lastValue": 0.54,
       "zone": null
     },
     {
@@ -1563,7 +1563,7 @@
       "points": 42,
       "first": "2026-09-16",
       "last": "2026-11-16",
-      "lastValue": 22,
+      "lastValue": 20,
       "zone": null
     },
     {
@@ -1602,7 +1602,7 @@
       "points": 42,
       "first": "2026-09-16",
       "last": "2026-11-16",
-      "lastValue": -13,
+      "lastValue": -14,
       "zone": null
     },
     {
@@ -1641,7 +1641,7 @@
       "points": 42,
       "first": "2026-09-16",
       "last": "2026-11-16",
-      "lastValue": -11,
+      "lastValue": -14,
       "zone": null
     },
     {
@@ -1661,7 +1661,7 @@
       "points": 42,
       "first": "2026-09-16",
       "last": "2026-11-16",
-      "lastValue": 0.4741,
+      "lastValue": 0.4701,
       "zone": null
     },
     {
