@@ -148,3 +148,30 @@ forward-return implication.
 ## License
 
 MIT © 2026 Chirag Singhal
+
+<!-- DATA:BEGIN -->
+## Current readings
+
+_Updated 2026-11-16T07:25:22.865Z · as of 2026-11-13 · 82 series tracked_
+
+| Index | Value | Zone | As of | Previous | Change |
+| :--- | ---: | :--- | :--- | ---: | ---: |
+| Tickertape Market Mood Index | 77.03 | Extreme Greed | 2026-11-16 | 79.23 | -2.20 |
+| CNN Fear & Greed Index | 38.60 | Fear | 2026-11-13 | 40.34 | -1.74 |
+| Crypto Fear & Greed Index | 10.00 | Extreme Fear | 2026-11-16 | 10.00 | +0.00 |
+| India VIX | 15.80 | — | 2026-11-16 | 15.79 | +0.01 |
+
+![Market sentiment gauges](docs/assets/sentiment-gauges.svg)
+
+## Live URLs
+
+| Host | URL | Role |
+| :--- | :--- | :--- |
+| GitHub Pages | https://chirag127.github.io/fear-greed-index-api/ | canonical (domain-independent) |
+
+## Sources
+
+- Healthy: —
+- Unavailable: none
+
+<!-- DATA:END -->

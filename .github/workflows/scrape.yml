@@ -58,8 +58,9 @@ jobs:
 
             node scripts/collect.mjs > /dev/null
             node scripts/verify.mjs
+            node scripts/build-readme.mjs
 
-            git add data
+            git add data README.md docs
             if git diff --cached --quiet; then
               echo "no changes this run"
               exit 0

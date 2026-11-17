@@ -48,6 +48,10 @@ jobs:
       - name: Allow pnpm lifecycle scripts (pnpm 11 security gate)
         run: pnpm config set dangerouslyAllowAllBuilds true --location global
 
+      - name: Regenerate README from data
+        working-directory: host
+        run: node scripts/build-readme.mjs
+
       - name: Build site from README + data/
         run: node template/bootstrap.mjs --src="${{ github.workspace }}/host" --dest="${{ github.workspace }}/dist"
 
