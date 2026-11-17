@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T16:16:42.559Z",
+  "updated": "2026-11-17T18:49:18.945Z",
   "asOf": "2026-11-17",
   "headline": {
     "mmi": {
@@ -16,7 +16,7 @@
     "cnn-fng": {
       "title": "CNN Fear & Greed Index",
       "short": "CNN F&G",
-      "value": 25.809,
+      "value": 25.0869,
       "date": "2026-11-17",
       "zone": {
         "label": "Fear",
@@ -38,10 +38,10 @@
     "india-vix": {
       "title": "India VIX",
       "short": "VIX",
-      "value": 15.52,
+      "value": 15.51,
       "date": "2026-11-17",
       "zone": null,
-      "previous": 15.51
+      "previous": 15.68
     }
   },
   "tickertape": {
@@ -66,9 +66,9 @@
     }
   },
   "cnn": {
-    "value": 25.81,
+    "value": 25.09,
     "rating": "fear",
-    "timestamp": "2026-11-17T16:15:34+00:00",
+    "timestamp": "2026-11-17T18:43:33+00:00",
     "previousClose": 31.02,
     "previous1Week": 37.37,
     "previous1Month": 18.21,
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 310
+      "ms": 318
     },
     "tickertape": {
       "ok": true,
-      "ms": 79
+      "ms": 198
     },
     "nse": {
       "ok": true,
-      "ms": 246
+      "ms": 1453
     },
     "cnn": {
       "ok": true,
-      "ms": 105
+      "ms": 172
     },
     "crypto": {
       "ok": true,
-      "ms": 374
+      "ms": 311
     }
   },
   "unavailable": [],
