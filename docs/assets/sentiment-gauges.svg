@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 256" width="860" height="256"><rect width="860" height="256" fill="#0b1220"/><g>
       <text x="16" y="50" fill="#e6edf7" font-size="14" font-family="system-ui,sans-serif">MMI</text>
       <rect x="190" y="36" width="550" height="18" rx="9" fill="#16233a"/>
-      <rect x="190" y="36" width="386.5" height="18" rx="9" fill="#27ae60"/>
-      <text x="752" y="50" fill="#e6edf7" font-size="14" font-family="monospace">70.27</text>
+      <rect x="190" y="36" width="411.3" height="18" rx="9" fill="#27ae60"/>
+      <text x="752" y="50" fill="#e6edf7" font-size="14" font-family="monospace">74.79</text>
       <text x="190" y="74" fill="#8ea3bf" font-size="12" font-family="monospace">Greed · 2026-11-20 · prev 71.87</text>
     </g><g>
       <text x="16" y="124" fill="#e6edf7" font-size="14" font-family="system-ui,sans-serif">CNN F&G</text>
       <rect x="190" y="110" width="550" height="18" rx="9" fill="#16233a"/>
-      <rect x="190" y="110" width="102.2" height="18" rx="9" fill="#c0392b"/>
-      <text x="752" y="124" fill="#e6edf7" font-size="14" font-family="monospace">18.59</text>
-      <text x="190" y="148" fill="#8ea3bf" font-size="12" font-family="monospace">Extreme Fear · 2026-11-20 · prev 18.59</text>
+      <rect x="190" y="110" width="89.7" height="18" rx="9" fill="#c0392b"/>
+      <text x="752" y="124" fill="#e6edf7" font-size="14" font-family="monospace">16.32</text>
+      <text x="190" y="148" fill="#8ea3bf" font-size="12" font-family="monospace">Extreme Fear · 2026-11-20 · prev 16.32</text>
     </g><g>
       <text x="16" y="198" fill="#e6edf7" font-size="14" font-family="system-ui,sans-serif">Crypto F&G</text>
       <rect x="190" y="184" width="550" height="18" rx="9" fill="#16233a"/>
