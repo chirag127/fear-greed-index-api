@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T22:01:08.430Z",
+  "generated": "2026-11-21T03:36:04.562Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -153,7 +153,7 @@
       "points": 2496,
       "first": "2016-09-16",
       "last": "2026-11-20",
-      "lastValue": 17.33,
+      "lastValue": 17.32,
       "zone": null
     },
     {
@@ -171,9 +171,9 @@
       "source": "alternative.me",
       "sourceUrl": "https://alternative.me/crypto/fear-and-greed-index/",
       "description": "alternative.me crypto sentiment composite. A fast, 24/7 risk-appetite proxy.",
-      "points": 3211,
+      "points": 3212,
       "first": "2018-02-01",
-      "last": "2026-11-20",
+      "last": "2026-11-21",
       "lastValue": 12,
       "zone": {
         "label": "Extreme Fear",
@@ -420,7 +420,7 @@
       "points": 1563,
       "first": "2020-09-01",
       "last": "2026-11-20",
-      "lastValue": 1.2765,
+      "lastValue": 1.2781,
       "zone": null
     },
     {
@@ -518,7 +518,7 @@
       "points": 2524,
       "first": "2016-09-01",
       "last": "2026-11-20",
-      "lastValue": 25800.6,
+      "lastValue": 25800.5996,
       "zone": null
     },
     {
@@ -596,7 +596,7 @@
       "points": 2523,
       "first": "2016-09-01",
       "last": "2026-11-20",
-      "lastValue": 26662.85,
+      "lastValue": 26662.8496,
       "zone": null
     },
     {
@@ -674,7 +674,7 @@
       "points": 2523,
       "first": "2016-09-01",
       "last": "2026-11-20",
-      "lastValue": 24088.8,
+      "lastValue": 24088.8008,
       "zone": null
     },
     {
@@ -830,7 +830,7 @@
       "points": 2523,
       "first": "2016-09-01",
       "last": "2026-11-20",
-      "lastValue": 64635.2,
+      "lastValue": 64635.1992,
       "zone": null
     },
     {
