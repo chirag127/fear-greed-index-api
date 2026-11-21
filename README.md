@@ -152,7 +152,7 @@ MIT © 2026 Chirag Singhal
 <!-- DATA:BEGIN -->
 ## Current readings
 
-_Updated 2026-11-21T18:21:14.712Z · as of 2026-11-20 · 82 series tracked_
+_Updated 2026-11-21T23:37:17.209Z · as of 2026-11-20 · 82 series tracked_
 
 | Index | Value | Zone | As of | Previous | Change |
 | :--- | ---: | :--- | :--- | ---: | ---: |
