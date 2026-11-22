@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T23:37:17.209Z",
+  "updated": "2026-11-22T03:44:25.413Z",
   "asOf": "2026-11-20",
   "headline": {
     "mmi": {
@@ -27,8 +27,8 @@
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
       "short": "Crypto F&G",
-      "value": 12,
-      "date": "2026-11-21",
+      "value": 11,
+      "date": "2026-11-22",
       "zone": {
         "label": "Extreme Fear",
         "color": "#c0392b"
@@ -90,10 +90,10 @@
     }
   },
   "crypto": {
-    "value": 12,
+    "value": 11,
     "classification": "Extreme Fear",
-    "timestamp": "2026-11-21",
-    "historyDays": 3212
+    "timestamp": "2026-11-22",
+    "historyDays": 3213
   },
   "nse": {
     "indices": {
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 171
+      "ms": 285
     },
     "tickertape": {
       "ok": true,
-      "ms": 38
+      "ms": 129
     },
     "nse": {
       "ok": true,
-      "ms": 221
+      "ms": 316
     },
     "cnn": {
       "ok": true,
-      "ms": 68
+      "ms": 269
     },
     "crypto": {
       "ok": true,
-      "ms": 111
+      "ms": 325
     }
   },
   "unavailable": [],

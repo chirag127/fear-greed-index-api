@@ -152,13 +152,13 @@ MIT © 2026 Chirag Singhal
 <!-- DATA:BEGIN -->
 ## Current readings
 
-_Updated 2026-11-21T23:37:17.209Z · as of 2026-11-20 · 82 series tracked_
+_Updated 2026-11-22T03:44:25.413Z · as of 2026-11-20 · 82 series tracked_
 
 | Index | Value | Zone | As of | Previous | Change |
 | :--- | ---: | :--- | :--- | ---: | ---: |
 | Tickertape Market Mood Index | 74.79 | Greed | 2026-11-20 | 71.87 | +2.93 |
 | CNN Fear & Greed Index | 9.67 | Extreme Fear | 2026-11-20 | 15.87 | -6.19 |
-| Crypto Fear & Greed Index | 12.00 | Extreme Fear | 2026-11-21 | 12.00 | +0.00 |
+| Crypto Fear & Greed Index | 11.00 | Extreme Fear | 2026-11-22 | 12.00 | -1.00 |
 | India VIX | 17.33 | — | 2026-11-20 | 16.11 | +1.22 |
 
 ![Market sentiment gauges](docs/assets/sentiment-gauges.svg)
