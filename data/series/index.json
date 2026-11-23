@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T01:11:36.588Z",
+  "generated": "2026-11-23T09:55:26.729Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -127,10 +127,10 @@
       "source": "tickertape.in",
       "sourceUrl": "https://www.tickertape.in/market-mood-index",
       "description": "India 0-100 fear/greed composite (price, volatility, breadth, flows, valuations).",
-      "points": 46,
+      "points": 47,
       "first": "2026-09-16",
-      "last": "2026-11-20",
-      "lastValue": 74.7904,
+      "last": "2026-11-23",
+      "lastValue": 66.7316,
       "zone": {
         "label": "Greed",
         "color": "#27ae60"
@@ -150,10 +150,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Implied 30-day volatility of Nifty options. Spikes mark panic; collapses mark complacency.",
-      "points": 2496,
+      "points": 2497,
       "first": "2016-09-16",
-      "last": "2026-11-20",
-      "lastValue": 17.33,
+      "last": "2026-11-23",
+      "lastValue": 17.535,
       "zone": null
     },
     {
@@ -193,10 +193,10 @@
       "source": "finance.yahoo.com",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EBSESN/",
       "description": "BSE Sensex close, 10 years of daily history. Included for comparison against Nifty 50.",
-      "points": 2508,
+      "points": 2509,
       "first": "2016-09-16",
-      "last": "2026-11-20",
-      "lastValue": 83919.7109,
+      "last": "2026-11-23",
+      "lastValue": 82474.5703,
       "zone": null
     },
     {
@@ -213,10 +213,10 @@
       "source": "finance.yahoo.com",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ECNXIT/",
       "description": "NIFTY IT index close, 10 years of daily history. A proxy for IT-sector risk appetite.",
-      "points": 2512,
+      "points": 2513,
       "first": "2016-09-16",
-      "last": "2026-11-20",
-      "lastValue": 31322.6504,
+      "last": "2026-11-23",
+      "lastValue": 31910,
       "zone": null
     },
     {
@@ -233,10 +233,10 @@
       "source": "tickertape.in",
       "sourceUrl": "https://www.tickertape.in/market-mood-index",
       "description": "Nifty level from Tickertape's own MMI snapshot, so the index the MMI was computed against lines up exactly with the score.",
-      "points": 46,
+      "points": 47,
       "first": "2026-09-16",
-      "last": "2026-11-20",
-      "lastValue": 25800.6,
+      "last": "2026-11-23",
+      "lastValue": 25366.4,
       "zone": null
     },
     {
@@ -254,10 +254,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN US equity fear/greed composite, equal-weight across seven indicators.",
-      "points": 1563,
+      "points": 1564,
       "first": "2020-09-01",
-      "last": "2026-11-20",
-      "lastValue": 9.6737,
+      "last": "2026-11-23",
+      "lastValue": 10.4134,
       "zone": {
         "label": "Extreme Fear",
         "color": "#c0392b"
@@ -377,10 +377,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: Market Volatility (VIX). Raw indicator value (not a 0-100 score).",
-      "points": 1563,
+      "points": 1564,
       "first": "2020-09-01",
-      "last": "2026-11-20",
-      "lastValue": 35.89,
+      "last": "2026-11-23",
+      "lastValue": 30.51,
       "zone": null
     },
     {
@@ -397,10 +397,10 @@
       "source": "cnn.com",
       "sourceUrl": "https://edition.cnn.com/markets/fear-and-greed",
       "description": "CNN sub-indicator: VIX 50-Day Average. Raw indicator value (not a 0-100 score).",
-      "points": 1563,
+      "points": 1564,
       "first": "2020-09-01",
-      "last": "2026-11-20",
-      "lastValue": 18.4352,
+      "last": "2026-11-23",
+      "lastValue": 18.7034,
       "zone": null
     },
     {
@@ -515,10 +515,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY 50.",
-      "points": 2524,
+      "points": 2525,
       "first": "2016-09-01",
-      "last": "2026-11-20",
-      "lastValue": 25800.6,
+      "last": "2026-11-23",
+      "lastValue": 25366.4004,
       "zone": null
     },
     {
@@ -593,10 +593,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY 100.",
-      "points": 2523,
+      "points": 2524,
       "first": "2016-09-01",
-      "last": "2026-11-20",
-      "lastValue": 26662.85,
+      "last": "2026-11-23",
+      "lastValue": 26234.5,
       "zone": null
     },
     {
@@ -671,10 +671,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY 500.",
-      "points": 2523,
+      "points": 2524,
       "first": "2016-09-01",
-      "last": "2026-11-20",
-      "lastValue": 24088.8,
+      "last": "2026-11-23",
+      "lastValue": 23759.25,
       "zone": null
     },
     {
@@ -827,10 +827,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/allIndices",
       "description": "Closing level of NIFTY BANK.",
-      "points": 2523,
+      "points": 2524,
       "first": "2016-09-01",
-      "last": "2026-11-20",
-      "lastValue": 64635.2,
+      "last": "2026-11-23",
+      "lastValue": 62609.1992,
       "zone": null
     },
     {
