@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T05:38:52.248Z",
+  "updated": "2026-11-24T16:35:46.985Z",
   "asOf": "2026-11-23",
   "headline": {
     "mmi": {
@@ -16,13 +16,13 @@
     "cnn-fng": {
       "title": "CNN Fear & Greed Index",
       "short": "CNN F&G",
-      "value": 16.9659,
+      "value": 14.7495,
       "date": "2026-11-24",
       "zone": {
         "label": "Extreme Fear",
         "color": "#c0392b"
       },
-      "previous": 16.9659
+      "previous": 14.8806
     },
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
@@ -66,9 +66,9 @@
     }
   },
   "cnn": {
-    "value": 16.97,
+    "value": 14.75,
     "rating": "extreme fear",
-    "timestamp": "2026-11-24T01:00:00+00:00",
+    "timestamp": "2026-11-24T16:34:16+00:00",
     "previousClose": 16.97,
     "previous1Week": 25.95,
     "previous1Month": 16.69,
@@ -78,13 +78,13 @@
     "historyFrom": "2020-09-01",
     "historyTo": "2026-11-24",
     "componentDepths": {
-      "cnn-momentum-sp500": 1565,
-      "cnn-momentum-sp125": 1565,
+      "cnn-momentum-sp500": 1566,
+      "cnn-momentum-sp125": 1566,
       "cnn-price-strength": 1565,
       "cnn-price-breadth": 1565,
       "cnn-put-call": 1565,
-      "cnn-vix": 1565,
-      "cnn-vix50": 1565,
+      "cnn-vix": 1566,
+      "cnn-vix50": 1566,
       "cnn-junk-bond": 1565,
       "cnn-safe-haven": 1565
     }
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 294
+      "ms": 194
     },
     "tickertape": {
       "ok": true,
-      "ms": 170
+      "ms": 76
     },
     "nse": {
       "ok": true,
-      "ms": 1673
+      "ms": 255
     },
     "cnn": {
       "ok": true,
-      "ms": 152
+      "ms": 109
     },
     "crypto": {
       "ok": true,
-      "ms": 364
+      "ms": 187
     }
   },
   "unavailable": [],
