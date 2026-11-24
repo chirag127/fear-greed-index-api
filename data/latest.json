@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T21:46:44.075Z",
+  "updated": "2026-11-24T05:38:52.248Z",
   "asOf": "2026-11-23",
   "headline": {
     "mmi": {
@@ -17,18 +17,18 @@
       "title": "CNN Fear & Greed Index",
       "short": "CNN F&G",
       "value": 16.9659,
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "zone": {
         "label": "Extreme Fear",
         "color": "#c0392b"
       },
-      "previous": 18.5874
+      "previous": 16.9659
     },
     "crypto-fng": {
       "title": "Crypto Fear & Greed Index",
       "short": "Crypto F&G",
       "value": 11,
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "zone": {
         "label": "Extreme Fear",
         "color": "#c0392b"
@@ -68,32 +68,32 @@
   "cnn": {
     "value": 16.97,
     "rating": "extreme fear",
-    "timestamp": "2026-11-23T21:31:07+00:00",
-    "previousClose": 9.67,
-    "previous1Week": 31.07,
+    "timestamp": "2026-11-24T01:00:00+00:00",
+    "previousClose": 16.97,
+    "previous1Week": 25.95,
     "previous1Month": 16.69,
-    "previous1Year": 5.66,
-    "historyDays": 1564,
+    "previous1Year": 13.69,
+    "historyDays": 1565,
     "historyStart": "2020-09-01",
     "historyFrom": "2020-09-01",
-    "historyTo": "2026-11-23",
+    "historyTo": "2026-11-24",
     "componentDepths": {
       "cnn-momentum-sp500": 1565,
       "cnn-momentum-sp125": 1565,
-      "cnn-price-strength": 1564,
-      "cnn-price-breadth": 1564,
-      "cnn-put-call": 1564,
+      "cnn-price-strength": 1565,
+      "cnn-price-breadth": 1565,
+      "cnn-put-call": 1565,
       "cnn-vix": 1565,
       "cnn-vix50": 1565,
-      "cnn-junk-bond": 1564,
-      "cnn-safe-haven": 1564
+      "cnn-junk-bond": 1565,
+      "cnn-safe-haven": 1565
     }
   },
   "crypto": {
     "value": 11,
     "classification": "Extreme Fear",
-    "timestamp": "2026-11-23",
-    "historyDays": 3214
+    "timestamp": "2026-11-24",
+    "historyDays": 3215
   },
   "nse": {
     "indices": {
@@ -304,23 +304,23 @@
   "sources": {
     "yahoo": {
       "ok": true,
-      "ms": 355
+      "ms": 294
     },
     "tickertape": {
       "ok": true,
-      "ms": 179
+      "ms": 170
     },
     "nse": {
       "ok": true,
-      "ms": 940
+      "ms": 1673
     },
     "cnn": {
       "ok": true,
-      "ms": 236
+      "ms": 152
     },
     "crypto": {
       "ok": true,
-      "ms": 259
+      "ms": 364
     }
   },
   "unavailable": [],
