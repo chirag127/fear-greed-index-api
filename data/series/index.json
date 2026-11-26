@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T13:17:43.733Z",
+  "generated": "2026-11-26T22:39:26.038Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -130,7 +130,7 @@
       "points": 49,
       "first": "2026-09-16",
       "last": "2026-11-26",
-      "lastValue": 64.7671,
+      "lastValue": 64.7672,
       "zone": {
         "label": "Greed",
         "color": "#27ae60"
@@ -1677,10 +1677,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/fiidiiTradeReact",
       "description": "Foreign institutional net buy/sell in the cash market, in INR crore.",
-      "points": 48,
+      "points": 49,
       "first": "2026-09-16",
-      "last": "2026-11-25",
-      "lastValue": 4479.08,
+      "last": "2026-11-26",
+      "lastValue": 5843.33,
       "zone": null
     },
     {
@@ -1696,10 +1696,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/fiidiiTradeReact",
       "description": "Domestic institutional net buy/sell in the cash market, in INR crore.",
-      "points": 48,
+      "points": 49,
       "first": "2026-09-16",
-      "last": "2026-11-25",
-      "lastValue": 4018.72,
+      "last": "2026-11-26",
+      "lastValue": 5630.72,
       "zone": null
     },
     {
@@ -1716,10 +1716,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/fiidiiTradeReact",
       "description": "Running sum of FII net flows — the persistent-foreign-selling signal.",
-      "points": 48,
+      "points": 49,
       "first": "2026-09-16",
-      "last": "2026-11-25",
-      "lastValue": 35325.79,
+      "last": "2026-11-26",
+      "lastValue": 41169.12,
       "zone": null
     },
     {
@@ -1736,10 +1736,10 @@
       "source": "nseindia.com",
       "sourceUrl": "https://www.nseindia.com/api/fiidiiTradeReact",
       "description": "Running sum of DII net flows. DIIs often absorb FII selling.",
-      "points": 48,
+      "points": 49,
       "first": "2026-09-16",
-      "last": "2026-11-25",
-      "lastValue": 50048.96,
+      "last": "2026-11-26",
+      "lastValue": 55679.68,
       "zone": null
     }
   ]
