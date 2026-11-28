@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-28T05:12:43.228Z",
+  "generated": "2026-11-28T14:38:51.338Z",
   "count": 82,
   "declared": 82,
   "groups": {
@@ -153,7 +153,7 @@
       "points": 2500,
       "first": "2016-09-16",
       "last": "2026-11-27",
-      "lastValue": 16.68,
+      "lastValue": 16.55,
       "zone": null
     },
     {
@@ -518,7 +518,7 @@
       "points": 2528,
       "first": "2016-09-01",
       "last": "2026-11-27",
-      "lastValue": 25607.2,
+      "lastValue": 25607.1992,
       "zone": null
     },
     {
@@ -596,7 +596,7 @@
       "points": 2527,
       "first": "2016-09-01",
       "last": "2026-11-27",
-      "lastValue": 26462.9,
+      "lastValue": 26462.9004,
       "zone": null
     },
     {
@@ -674,7 +674,7 @@
       "points": 2527,
       "first": "2016-09-01",
       "last": "2026-11-27",
-      "lastValue": 23949.35,
+      "lastValue": 23949.3496,
       "zone": null
     },
     {
@@ -830,7 +830,7 @@
       "points": 2527,
       "first": "2016-09-01",
       "last": "2026-11-27",
-      "lastValue": 63040.9,
+      "lastValue": 63040.8984,
       "zone": null
     },
     {
